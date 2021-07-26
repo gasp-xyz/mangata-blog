@@ -1,4 +1,119 @@
-html {
+@font-face {
+  font-family: GT Walsheim Pro;
+  src: local('GT Walsheim Pro Regular'), local('GTWalsheimProRegular'),
+    url('/assets/fonts/GTWalsheimProRegular.woff2') format('woff2'),
+    url('/assets/fonts/GTWalsheimProRegular.woff') format('woff'),
+    url('/assets/fonts/GTWalsheimProRegular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+html,
+body {
   padding: 0;
   margin: 0;
+  box-sizing: border-box;
+  -webkit-touch-callout: none;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  min-height: 100vh;
+  /* background-image: url(/assets/images/bg.svg); */
+  /* background-repeat: repeat-x; */
+  /* background-position: top center; */
+  background: linear-gradient(180deg, #f1f9fa, #f1f9fa 600px, #ffffff 900px, #ffffff);
+  font-family: 'GT Walsheim Pro', sans-serif;
+  font-size: 16px;
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.logo {
+  position: relative;
+  display: block;
+  margin-left: 24px;
+  margin-top: 17px;
+}
+
+.main-nav {
+  margin-right: 24px;
+  margin-top: 17px;
+}
+
+.birds {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  background-image: url(/assets/images/birds.png);
+  width: 367px;
+  height: 188px;
+}
+
+main {
+  width: 900px;
+  margin: 0 auto;
+  margin-top: 180px;
+}
+
+h1 {
+  font-size: 96px;
+}
+
+a {
+  color: #14abb9;
+}
+
+.blog-nav a {
+  margin-right: 24px;
+}
+
+ul.post-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+ul.post-list li {
+  margin-top: 90px;
+}
+
+a.post-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+footer {
+  position: relative;
+  height: 265px;
+  width: 900px;
+  margin: 0 auto;
+  margin-top: 200px;
+  display: flex;
+  justify-content: space-between;
+}
+
+footer .logo {
+  position: absolute;
+  top: 30px;
+  left: 20px;
+}
+
+nav.footer-nav {
+  position: absolute;
+  top: 70px;
+  left: 50%;
+}
+
+.footer-nav section {
+  float: left;
+  margin-right: 40px;
+  display: flex;
+  flex-direction: column;
 }
