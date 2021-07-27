@@ -79,7 +79,12 @@ main {
 }
 
 h1 {
+  margin: 0;
   font-size: 96px;
+}
+
+h1.post-title {
+  font-size: 56px;
 }
 
 h3 {
@@ -140,6 +145,24 @@ ul.post-list {
 a.post-link {
   text-decoration: none;
   color: inherit;
+}
+
+.post-content,
+.post-header {
+  max-width: 640px;
+  margin: 0 auto;
+}
+
+.post-header {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 48px;
+}
+
+.post-content {
+  margin-top: 40px;
+  font-size: 18px;
+  line-height: 30px;
 }
 
 footer {
