@@ -5,22 +5,33 @@ layout: default
 <div class="home">
   <h1 class="page-heading">Mangata blog</h1>
 
+  {% assign current = page.url | downcase %}
+  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+
   <nav class="blog-nav">
-    <a class="page-link" href="/">Blog Posts</a>
-    <a class="page-link" href="/press-releases">News</a>
+    <a  {% if current == '/' %}class='active'{% endif %} href="/">Blog Posts</a>
+    <a  {% if current == '/press-releases' %}class='active'{% endif %} href="/press-releases">News</a>
   </nav>
   {{ content }} {%- if site.posts.size > 0 -%}
   <ul class="post-list">
     {%- for post in site.posts -%}
-    <li>
-      <img src="/assets/posts/{{post.image}}" alt="post.title" />
+    <li class="post-list-item">
+      <img class="post-image" src="/assets/posts/{{post.image}}" alt="{{post.title}}" />
       <h3>
         <a class="post-link" href="{{ post.url | relative_url }}"> {{ post.title | escape }} </a>
       </h3>
-      <span class="post-meta">{{ post.date | date: date_format }}</span>
+
+     
+
+      <span class="post-meta">
+        <img class="author-image" src="/assets/authors/{{post.author-image}}" width="20" height="20" alt="{{post.author}}" />
+        
+        <span class="author"> by {{post.author}}</span>
+        
+        <span class="date"> · {{ post.date | date: date_format }}</span>
+      </span>
 
       <p>{{ post.excerpt }}</p>
-      <!-- {{site.minima.date_format | default: "%b %-d, %Y" -%}} -->
     </li>
     {%- endfor -%}
   </ul>

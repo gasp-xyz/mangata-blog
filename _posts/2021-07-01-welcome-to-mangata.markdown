@@ -4,6 +4,8 @@ title:  "Welcome to Mangata!"
 date:   2021-07-01 16:29:20 +0200
 categories: jekyll update
 image: "example2.jpg"
+author: "Mangata Team"
+author-image: "mangata-team.png"
 ---
 
 
