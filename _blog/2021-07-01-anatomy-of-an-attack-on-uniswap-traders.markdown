@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Anatomy of an attack on Uniswap traders from 13.11.2020"
-date:   2021-07-01 16:29:20 +0200
+date: 2021-07-01 16:29:20 +0200
 image: "traps.jpg"
 author: "Mangata Team"
 author-image: "mangata-team.png"

@@ -14,7 +14,9 @@ layout: default
     <ul class="post-list">
       {%- for blogItem in site.blog -%}
         <li class="post-list-item">
-          <img class="post-image" src="/assets/posts/{{blogItem.image}}" alt="{{blogItem.title}}"/>
+          <a href="{{ blogItem.url | relative_url }}">
+            <img class="post-image" src="/assets/posts/{{blogItem.image}}" alt="{{blogItem.title}}"/>
+          </a>
           <h3>
             <a class="post-link" href="{{ blogItem.url | relative_url }}">
               {{ blogItem.title | escape }}
