@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<div class="home">
+  <h1 class="page-heading">Mangata blog</h1>
+
+  {% assign current = page.url | downcase %}
+  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+  {%- include blog-nav.html -%}
+
+  {%- if site.blog.size > 0 -%}
+
+    <ul class="post-list">
+      {%- for blogItem in site.blog -%}
+        <li class="post-list-item">
+          <img class="post-image" src="/assets/posts/{{blogItem.image}}" alt="{{blogItem.title}}"/>
+          <h3>
+            <a class="post-link" href="{{ blogItem.url | relative_url }}">
+              {{ blogItem.title | escape }}
+            </a>
+          </h3>
+
+          <span class="post-meta">
+            <img class="author-image" src="/assets/authors/{{blogItem.author-image}}" width="20" height="20" alt="{{blogItem.author}}"/>
+
+            <span class="author">
+              by
+              {{blogItem.author}}</span>
+
+            <span class="date">
+              ·
+              {{ blogItem.date | date: date_format }}</span>
+          </span>
+
+          <div class="excerpt">
+            {{ blogItem.excerpt }}
+          </div>
+        </li>
+      {%- endfor -%}
+    </ul>
+
+  {%- endif -%}
+</div>

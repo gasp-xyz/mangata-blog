@@ -96,6 +96,10 @@ a {
   color: #14abb9;
 }
 
+.blog-nav {
+  margin-top: 40px;
+}
+
 .blog-nav a {
   margin-right: 24px;
   text-decoration: none;
@@ -142,6 +146,10 @@ ul.post-list {
   color: #5e727f;
 }
 
+.excerpt {
+  max-width: 620px;
+}
+
 a.post-link {
   text-decoration: none;
   color: inherit;
@@ -163,6 +171,12 @@ a.post-link {
   margin-top: 40px;
   font-size: 18px;
   line-height: 30px;
+  overflow-wrap: break-word;
+}
+
+.post-content img {
+  width: 100%;
+  margin: 36px 0;
 }
 
 footer {
@@ -178,11 +192,11 @@ footer {
 footer .logo {
   position: absolute;
   top: 50px;
-  left: 20px;
+  left: 0px;
 }
 
 footer .birds {
-  left: 13%;
+  left: 20%;
 }
 
 nav.footer-nav {
@@ -213,7 +227,7 @@ nav.footer-nav {
   line-height: 24px;
   padding-bottom: 16px;
   text-decoration: none;
-  color: #b8bbbd;
+  color: #5e727f;
 }
 
 /* Language: css */

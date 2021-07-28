@@ -29,7 +29,9 @@ url: '' # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username: jekyll
 collections:
-  press:
+  news:
+    output: true
+  blog: 
     output: true
 # Build settings
 # theme: minima

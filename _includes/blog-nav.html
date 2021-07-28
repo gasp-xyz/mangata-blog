@@ -1,0 +1,5 @@
+{% assign current = page.url  %}
+<nav class="blog-nav">
+  <a {% if (current == '/') %} class="active" {% endif %} href="/">Blog Posts</a>
+  <a {% if (current contains 'news') %} class="active" {% endif %} href="/news">News</a>
+</nav>

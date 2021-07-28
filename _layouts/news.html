@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<div class="home">
+  <h1 class="page-heading">News</h1>
+
+  {% assign current = page.url | downcase %}
+  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+
+  {%- include blog-nav.html -%}
+
+
+  {%- if site.news.size > 0 -%}
+    <ul class="post-list">
+      {%- for newsItem in site.news -%}
+        <li class="post-list-item">
+          <img class="post-image" src="/assets/posts/{{newsItem.image}}" alt="{{newsItem.title}}"/>
+          <h3>
+            <a class="post-link" href="{{ newsItem.url | relative_url }}">
+              {{ newsItem.title | escape }}
+            </a>
+          </h3>
+
+          <span class="post-meta">
+            <img class="author-image" src="/assets/authors/{{newsItem.author-image}}" width="20" height="20" alt="{{newsItem.author}}"/>
+
+            <span class="author">
+              by
+              {{newsItem.author}}</span>
+
+            <span class="date">
+              ·
+              {{ newsItem.date | date: date_format }}</span>
+          </span>
+
+          <div class="excerpt">{{ newsItem.excerpt }}</div>
+        </li>
+      {%- endfor -%}
+    </ul>
+
+  {%- endif -%}
+</div>
