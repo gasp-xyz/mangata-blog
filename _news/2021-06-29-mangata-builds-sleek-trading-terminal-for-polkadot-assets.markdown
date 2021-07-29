@@ -31,7 +31,7 @@ As a result of the solution proposed by the Mangata research team led by chief t
 
 ![illustration](/assets/posts/mga-illiustration.jpg)
 
-Consequently, Mangata’s core pillars solve key challenges, creating a high-quality trading system that facilitates community access to early-stage Polkadot projects. Mangata’s road to success is also paved by its team comprising skilled software engineers, blockchain architects, derivatives experts, product designers, business strategists and more. Speaking about the project’s unique market position, [Peter Kris](https://twitter.com/uPeterKris), CEO of Mangata, said:
+Consequently, Mangata’s core pillars solve key challenges, creating a high-quality trading system that facilitates community access to early-stage Polkadot projects. Mangata’s road to success is also paved by its team comprising skilled software engineers, blockchain architects, derivatives experts, product designers, business strategists and more. Speaking about the project’s unique market position, [Peter Kris](https://twitter.com/uPeterKris){:target="_blank"}, CEO of Mangata, said:
 
 >“Mangata is the best-positioned protocol, being cutting-edge in research and development, that will solve trading UX, costs and front-running problems. With the industry’s top investors, this team has the best support to build a successful product.” 
 
