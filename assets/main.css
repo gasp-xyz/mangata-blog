@@ -34,7 +34,6 @@ header {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  overflow: hidden;
 }
 
 .logo {
@@ -203,7 +202,7 @@ a.post-link {
 footer {
   position: relative;
   height: 265px;
-  width: 900px;
+  max-width: 900px;
   margin: 0 auto;
   margin-top: 200px;
   display: flex;
@@ -282,5 +281,18 @@ nav.footer-nav {
 
   nav.main-nav {
     margin-top: 28px;
+  }
+
+  footer {
+  }
+
+  nav.footer-nav {
+    top: 200px;
+    left: 24px;
+  }
+
+  nav.footer-nav section {
+    margin-left: 0;
+    margin-right: 78px;
   }
 }
