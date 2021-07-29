@@ -1,4 +1,16 @@
 <head>
+
+  <!-- Google Tag Manager -->
+  <script>(function (w, d, s, l, i) {
+    w[l] = w[l] || []; w[l].push({
+      'gtm.start':
+        new Date().getTime(), event: 'gtm.js'
+    }); var f = d.getElementsByTagName(s)[0],
+      j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+  })(window, document, 'script', 'dataLayer', 'GTM-NRBT49V');</script>
+  <!-- End Google Tag Manager -->
+
   <meta charset="utf-8"/>
   <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
   <meta content="width=device-width,initial-scale=1" name="viewport"/>
@@ -7,31 +19,25 @@
   <link href="/assets/favicon/favicon-32x32.png" rel="icon" sizes="32x32" type="image/png"/>
   <link href="/assets/favicon/favicon-16x16.png" rel="icon" sizes="16x16" type="image/png"/>
 
-  {% assign title = page.title == "" ? "Blog" : page.title )%}
-  {% assign description = page.excerpt == "" ? "Mangata blog" : page.excerpt | strip_html | escape %}
-  {% assign image = page.image == "" ? "https://mangata.finance/images/og-image.jpg" : "https://blog.mangata.finance/assets/posts/" + page.image  %}
+  {% assign title = "Mangata | " | append: page.title %}
+  {% assign description = page.excerpt | strip_html | escape %}
+  {% assign obrazok = "https://blog.mangata.finance/assets/posts/" | append: page.image %}
 
-  <title>
-    Mangata |
-    {{title}}
-  </title>
+
+  <title>{{title}}</title>
 
   <meta content="{{description}}" name="description"/>
 
 
-  <meta content="Mangata | {{title}}" property="og:title"/>
+  <meta content="{{title}}" property="og:title"/>
   <meta content="{{description}}" property="og:description"/>
-  <meta content="{{image}}" property="og:image"/>
+  <meta content="{{obrazok}}" property="og:image"/>
   <meta content="{{page.url}}" property="og:url"/>
   <meta content="website" property="og:type"/>
 
   <meta content="summary_large_image" name="twitter:card"/>
-  <meta content="Mangata | {{title}}" name="twitter:title"/>
+  <meta content="{{title}}" name="twitter:title"/>
   <meta content="{{description}}" name="twitter:description"/>
-  <meta content="{{image}}" name="twitter:image"/>
+  <meta content="{{obrazok}}" name="twitter:image"/>
 
-  {%- if jekyll.environment == 'production' and site.google_analytics -%}
-    {%- include
-  google-analytics.html -%}
-  {%- endif -%}
 </head>

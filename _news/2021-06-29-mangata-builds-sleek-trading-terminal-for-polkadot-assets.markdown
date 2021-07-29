@@ -2,7 +2,7 @@
 layout: post
 title:  "Mangata builds sleek trading terminal for Polkadot assets, raises $1.4M"
 date:   2021-06-29 16:29:20 +0200
-image: "mga-pr.jpg"
+image: "mga-investment.jpg"
 author: "Mangata Team"
 author-image: "mangata-team.png"
 ---

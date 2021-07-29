@@ -15,7 +15,7 @@ layout: default
     <ul class="post-list">
       {%- for newsItem in site.news -%}
         <li class="post-list-item">
-          <a href="{{ blogItem.url | relative_url }}">
+          <a href="{{ newsItem.url | relative_url }}">
             <img class="post-image" src="/assets/posts/{{newsItem.image}}" alt="{{newsItem.title}}"/>
           </a>
 
