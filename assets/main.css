@@ -64,11 +64,14 @@ nav.main-nav a {
   display: inline-block;
 }
 
+nav.main-nav a.blog {
+  color: #14abb9;
+}
+
 nav.main-nav a.testnet {
   border: 1px solid #14abb9;
   color: #14abb9;
   border-radius: 100px;
-  transition: background 0.3s;
   padding: 12px 16px;
 }
 
@@ -79,6 +82,7 @@ nav.main-nav a.testnet {
   background-image: url(/assets/images/birds.png);
   width: 367px;
   height: 188px;
+  z-index: -1;
 }
 
 main {
