@@ -4,26 +4,25 @@ layout: default
 
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
   <header class="post-header">
+    {%- assign date_format =  "%b %-d, %Y" -%}
     <h1 class="post-title">{{ page.title | escape }}</h1>
 
     <div class="post-meta">
-      <img
-        class="author-image"
-        src="/assets/authors/{{page.author-image}}"
-        width="20"
-        height="20"
-        alt="{{post.author}}"
-      />
+      <img class="author-image" src="/assets/authors/{{page.author-image}}" width="20" height="20" alt="{{post.author}}"/>
 
-      <span class="author"> by {{page.author}}</span>
+      <span class="author">
+        by
+        {{page.author}}</span>
 
-      <span class="date"> · {{ page.date | date: date_format }}</span>
+      <span class="date">
+        ·
+        {{ page.date | date: date_format }}</span>
     </div>
   </header>
 
-  <img class="post-image" src="/assets/posts/{{page.image}}" alt="{{page.title}}" />
+  <img class="post-image" src="/assets/posts/{{page.image}}" alt="{{page.title}}"/>
 
   <div class="post-content">{{ content }}</div>
 
-  <a  href="{{ page.url | relative_url }}" hidden></a>
+  <a href="{{ page.url | relative_url }}" hidden></a>
 </article>
