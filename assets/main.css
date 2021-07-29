@@ -27,6 +27,7 @@ body {
   background: linear-gradient(180deg, #f1f9fa, #f1f9fa 600px, #ffffff 900px, #ffffff);
   font-family: 'GT Walsheim Pro', sans-serif;
   font-size: 16px;
+  overflow-x: hidden;
 }
 
 header {
