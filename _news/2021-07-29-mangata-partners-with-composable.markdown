@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  "Mangata partners with Composable: Opening its own Parachain Vault Strategy for the future parachain slot auction"
-date:   2021-07-29 15:00:00 +0200
+date:   2021-07-29 00:00:00 +0200
 image: "mga-composable.jpg"
 author: "Mangata Team"
 author-image: "mangata-team.png"
 ---
+
+
 Mangata’s core strategy is to be a DEX parachain that bridges the Ethereum and Polkadot ecosystems. To accomplish this goal, we need to build our protocol on a Polkadot parachain, which requires going through a parachain auction. Besides the traditional approach of crowdloaning, there are new and superior cross-chain approaches that allows funds to be allocated from the Ethereum ecosystem towards parachain procurement.
 
 [Composable Finance](https://www.composable.finance/) is directly aligned with our mission to bridge Ethereum and Polkadot, with their Parachain Vault Strategy allowing liquidity providers to get exposure to DOT or KSM. We believe that Composable is one of the first of its kind, paving the way in parachain procurement strategies in addition to cross-chain and cross-layer functionalities. Mangata aims to partner with every true cross-chain project that will enable liquidity flows, including Composable. 
@@ -16,9 +18,9 @@ Mangata is thus pleased to be the first project using the Composable Parachain A
 
 In response to the limitations in previous methods for parachain procurement, Composable Finance has architected its [Parachain Vault Strategy](https://docs.composable.finance/the-polkadot-solution-1/parachain-vault-strategy). Unlike typical methods of parachain procurement, the strategy has a few key benefits:
 
-* Allowing users to deposit ERC-20 tokens (instead of just KSM or DOT)
-* Providing users with a significant yield on their token stakings (instead of experiencing an opportunity cost) 
-* Through this improved incentivization, improving chances for protocols to earn DOT/KSM (instead of hoping users will participate despite the lack of rewards)
+- Allowing users to deposit ERC-20 tokens (instead of just KSM or DOT)
+- Providing users with a significant yield on their token stakings (instead of experiencing an opportunity cost) 
+- Through this improved incentivization, improving chances for protocols to earn DOT/KSM (instead of hoping users will participate despite the lack of rewards)
 
 Recently, Composable gathered over $50 million (and growing) in its vault. This demonstrates the ability of this system to generate funds, and indicated the significant potential for Composable’s vaults to be leveraged by other parachain-seeking projects. The advantage of this approach is that this can be seen as a perpetual long-term crowdloan, where the funds are sitting in the best DeFi protocols at the same time.
 
