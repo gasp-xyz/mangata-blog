@@ -257,7 +257,11 @@ nav.footer-nav {
     margin: 0 24px;
   }
 
-  h1,
+  h1 {
+    font-size: 56px;
+    margin-top: 136px;
+  }
+
   h1.post-title {
     font-size: 48px;
     margin-top: 136px;
