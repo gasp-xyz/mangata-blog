@@ -240,4 +240,8 @@ nav.footer-nav {
   h1 {
     font-size: 56px;
   }
+
+  nav.main-nav a.testnet {
+    display: none;
+  }
 }
