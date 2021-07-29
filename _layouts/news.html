@@ -6,14 +6,15 @@ layout: default
   <h1 class="page-heading">News</h1>
 
   {% assign current = page.url | downcase %}
-  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+  {%- assign date_format =  "%b %-d, %Y" -%}
 
   {%- include blog-nav.html -%}
 
+  {% assign allNews = site.news | reverse %}
 
   {%- if site.news.size > 0 -%}
     <ul class="post-list">
-      {%- for newsItem in site.news -%}
+      {%- for newsItem in allNews -%}
         <li class="post-list-item">
           <a href="{{ newsItem.url | relative_url }}">
             <img class="post-image" src="/assets/posts/{{newsItem.image}}" alt="{{newsItem.title}}"/>

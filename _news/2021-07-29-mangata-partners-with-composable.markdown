@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Mangata partners with Composable: Opening its own Parachain Vault Strategy for the future parachain slot auction"
-date:   2021-07-29 00:00:00 +0200
 image: "mga-composable.jpg"
 author: "Mangata Team"
 author-image: "mangata-team.png"

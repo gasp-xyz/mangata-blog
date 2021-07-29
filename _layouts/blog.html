@@ -6,11 +6,13 @@ layout: default
   <h1 class="page-heading">Mangata blog</h1>
 
   {% assign current = page.url | downcase %}
-  {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+  {%- assign date_format = "%b %-d, %Y" -%}
+
   {%- include blog-nav.html -%}
 
-  {%- if site.blog.size > 0 -%}
+  {% assign allBlog = site.blog | reverse %}
 
+  {%- if site.blog.size > 0 -%}
     <ul class="post-list">
       {%- for blogItem in site.blog -%}
         <li class="post-list-item">
