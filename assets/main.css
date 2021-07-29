@@ -170,7 +170,8 @@ a.post-link {
 }
 
 .post-content,
-.post-header {
+.post-header,
+.post-social {
   max-width: 640px;
   margin: 0 auto;
 }
@@ -191,6 +192,11 @@ a.post-link {
 .post-content img {
   width: 100%;
   margin: 36px 0;
+}
+
+.post-social {
+  font-size: 18px;
+  line-height: 30px;
 }
 
 footer {
