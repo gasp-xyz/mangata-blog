@@ -173,7 +173,8 @@ a.post-link {
 
 .post-content,
 .post-header,
-.post-social {
+.post-social,
+.post-signup {
   max-width: 640px;
   margin: 0 auto;
 }
@@ -201,6 +202,68 @@ a.post-link {
   line-height: 30px;
 }
 
+.post-signup {
+  background-color: #f1f9fa;
+  border-radius: 10px;
+  text-align: center;
+  padding: 40px 65px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 80px;
+  box-sizing: border-box;
+}
+
+.post-signup h3 {
+  margin: 0;
+}
+
+.post-signup p {
+  color: #5e727f;
+  margin-top: 8px;
+  margin-bottom: 24px;
+}
+
+.signup-wrapper {
+  padding: 8px;
+  padding-left: 16px;
+  border-radius: 100px;
+  width: 400px;
+  display: flex;
+  background: white;
+}
+
+.signup-input {
+  padding: 8px;
+  color: #b8bbbd;
+  width: 100%;
+  background: white;
+  border: none;
+  outline: none;
+  font-family: inherit;
+  font-size: inherit;
+}
+
+.signup-button {
+  padding: 12px 16px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 16px;
+  letter-spacing: 0.05em;
+  background: #14abb9;
+  color: #fff;
+  border-radius: 100px;
+  text-align: center;
+  display: inline-block;
+  border: none;
+  cursor: pointer;
+}
+
+.hidden {
+  position: absolute;
+  left: -5000px;
+}
+
 footer {
   position: relative;
   height: 265px;
@@ -209,7 +272,6 @@ footer {
   margin-top: 200px;
   display: flex;
   justify-content: space-between;
-  overflow-x: hidden;
 }
 
 footer .logo {
@@ -304,5 +366,8 @@ nav.footer-nav {
 
   .post-list-item:first-of-type {
     margin-top: 48px;
+  }
+  .HomeNewsletter__inner__container__inner__newsletterInput {
+    border: none;
   }
 }
