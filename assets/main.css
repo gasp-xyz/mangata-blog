@@ -20,6 +20,7 @@ body {
 }
 
 body {
+  position: relative;
   min-height: 100vh;
   /* background-image: url(/assets/images/bg.svg); */
   /* background-repeat: repeat-x; */
@@ -79,9 +80,10 @@ nav.main-nav a.testnet {
   position: absolute;
   top: 0;
   left: 50%;
-  background-image: url(/assets/images/birds.png);
-  width: 367px;
+  width: 50%;
   height: 188px;
+  background-image: url(/assets/images/birds.png);
+  background-repeat: no-repeat;
   z-index: -1;
 }
 
@@ -207,6 +209,7 @@ footer {
   margin-top: 200px;
   display: flex;
   justify-content: space-between;
+  overflow-x: hidden;
 }
 
 footer .logo {
@@ -217,6 +220,7 @@ footer .logo {
 
 footer .birds {
   left: 20%;
+  width: 80%;
 }
 
 nav.footer-nav {
