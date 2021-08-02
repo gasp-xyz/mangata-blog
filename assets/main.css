@@ -367,7 +367,31 @@ nav.footer-nav {
   .post-list-item:first-of-type {
     margin-top: 48px;
   }
-  .HomeNewsletter__inner__container__inner__newsletterInput {
-    border: none;
+
+  .post-signup {
+    padding: 16px 24px;
+  }
+
+  .signup-button {
+    margin-top: 16px;
+  }
+
+  .signup-input {
+    border-radius: 100px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  .post-signup form {
+    width: 100%;
+  }
+  .signup-wrapper {
+    padding: 0;
+    border-radius: 100px;
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+    background: transparent;
   }
 }
