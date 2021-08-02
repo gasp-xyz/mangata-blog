@@ -3,7 +3,7 @@ layout: post
 title:  "Miner Extractable Value: The Biggest Thorn in DeFi"
 date: 2021-08-01
 image: "mga-mev.jpg"
-author: "Ingamar"
+author: "Ingamar Ramirez"
 author-image: "ingamar.jpg"
 ---
 
@@ -76,4 +76,4 @@ These problems are the core of the solution that [Mangata](https://mangata.finan
 
 So stay tuned. Solutions are well underway.
 
-Shoutouts to [@uPeterKris](https://twitter.com/uPeterKris) who assisted in writing and editing this piece
+Shoutouts to [@uPeterKris](https://twitter.com/uPeterKris), co-founder of Mangata, who assisted in writing and editing this piece

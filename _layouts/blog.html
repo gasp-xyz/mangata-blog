@@ -14,7 +14,7 @@ layout: default
 
   {%- if site.blog.size > 0 -%}
     <ul class="post-list">
-      {%- for blogItem in site.blog -%}
+      {%- for blogItem in allBlog -%}
         <li class="post-list-item">
           <a href="{{ blogItem.url | relative_url }}">
             <img class="post-image" src="/assets/posts/{{blogItem.image}}" alt="{{blogItem.title}}"/>
