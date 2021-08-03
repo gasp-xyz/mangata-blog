@@ -8,15 +8,35 @@ layout: default
     <h1 class="post-title">{{ page.title | escape }}</h1>
 
     <div class="post-meta">
-      <img class="author-image" src="/assets/authors/{{page.author-image}}" width="20" height="20" alt="{{post.author}}"/>
 
-      <span class="author">
-        by
-        {{page.author}}</span>
+      <span class="left">
+        <img class="author-image" src="/assets/authors/{{page.author-image}}" width="40" height="40" alt="{{post.author}}"/>
 
-      <span class="date">
-        ·
-        {{ page.date | date: date_format }}</span>
+        <span class="author">
+          by
+          {{page.author}}</span>
+
+        <span class="date">
+          ·
+          {{ page.date | date: date_format }}</span>
+      </span>
+      <span class="right">
+        <span class="share">
+          <span class="share-headline">Share post</span>
+          {% assign pageUrl = page.url | absolute_url %}
+          <span class="share-links">
+            <a class="post-share-link" href="https://www.facebook.com/sharer/sharer.php?u={{pageUrl}}&amp;title={{page.title | escape}}" target="_blank">
+              <img alt="Facebook" height="28" src="/assets/images/facebook.png" width="28"/>
+            </a>
+            <a class="post-share-link" href="https://twitter.com/intent/tweet?url={{pageUrl}}&amp;text={{page.title | escape}}" target="_blank">
+              <img alt="Twitter" height="28" src="/assets/images/twitter.png" width="28"/>
+            </a>
+            <a class="post-share-link" href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{pageUrl}}&amp;title={{page.title | escape}}" target="_blank">
+              <img alt="Linkedin" height="28" src="/assets/images/linkedin.png" width="28"/>
+            </a>
+          </span>
+        </span>
+      </span>
     </div>
   </header>
 
@@ -26,7 +46,7 @@ layout: default
 
   <div class="post-social">
     <p>
-      Stay tuned for these updates and more by following our socials:
+      Stay tuned for these updates and more by following our socials:<br />
       <a href="https://twitter.com/MangataFinance" target="_blank">Twitter</a>
       |
       <a href="https://discord.gg/X4VTaejebf" target="_blank">Discord</a>
@@ -41,6 +61,24 @@ layout: default
       |
       <a href="https://blog.mangata.finance" target="_blank">Blog</a>
     </p>
+  </div>
+
+  <div class="post-share-bottom">
+    <span class="share">
+      <span class="share-headline">Share post</span>
+      {% assign pageUrl = page.url | absolute_url %}
+      <span class="share-links">
+        <a class="post-share-link" href="https://www.facebook.com/sharer/sharer.php?u={{pageUrl}}&amp;title={{page.title | escape}}" target="_blank">
+          <img alt="Facebook" height="28" src="/assets/images/facebook.png" width="28"/>
+        </a>
+        <a class="post-share-link" href="https://twitter.com/intent/tweet?url={{pageUrl}}&amp;text={{page.title | escape}}" target="_blank">
+          <img alt="Twitter" height="28" src="/assets/images/twitter.png" width="28"/>
+        </a>
+        <a class="post-share-link" href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{pageUrl}}&amp;title={{page.title | escape}}" target="_blank">
+          <img alt="Linkedin" height="28" src="/assets/images/linkedin.png" width="28"/>
+        </a>
+      </span>
+    </span>
   </div>
 
   <div class="post-signup">

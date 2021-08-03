@@ -27,15 +27,15 @@ layout: default
           </h3>
 
           <span class="post-meta">
-            <img class="author-image" src="/assets/authors/{{newsItem.author-image}}" width="20" height="20" alt="{{newsItem.author}}"/>
+            <img class="author-image" src="/assets/authors/{{newsItem.author-image}}" width="40" height="40" alt="{{newsItem.author}}"/>
 
             <span class="author">
               by
               {{newsItem.author}}</span>
 
-            <span class="date">
-              ·
-              {{ newsItem.date | date: date_format }}</span>
+            <span class="date">{{ newsItem.date | date: date_format }}</span>
+
+
           </span>
 
           <div class="excerpt">{{ newsItem.excerpt }}</div>

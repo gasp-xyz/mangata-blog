@@ -132,9 +132,34 @@ ul.post-list {
 }
 
 .post-meta {
-  line-height: 20px;
-  height: 20px;
-  margin-top: 8px;
+  line-height: 40px;
+  height: 40px;
+  margin-top: 16px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.share-headline {
+  color: #5e727f;
+  margin-right: 4px;
+  font-size: 14px;
+}
+
+.share-links {
+  line-height: 28px;
+  height: 28px;
+  display: inline-block;
+}
+
+.share-links a {
+  text-decoration: none;
+  line-height: 28px;
+  height: 28px;
+}
+
+.share-links img {
+  vertical-align: bottom;
+  margin-bottom: 1px;
 }
 
 .author-image {
@@ -174,7 +199,8 @@ a.post-link {
 .post-content,
 .post-header,
 .post-social,
-.post-signup {
+.post-signup,
+.post-share-bottom {
   max-width: 640px;
   margin: 0 auto;
 }
@@ -262,6 +288,10 @@ a.post-link {
 .hidden {
   position: absolute;
   left: -5000px;
+}
+
+.post-share-bottom {
+  margin-top: 48px;
 }
 
 footer {

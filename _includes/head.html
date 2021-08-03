@@ -21,8 +21,8 @@
 
   {% assign title = page.title %}
   {% assign description = page.excerpt | strip_html | escape %}
-  {% assign obrazok = "https://blog.mangata.finance/assets/posts/" | append: page.image %}
-
+  {% assign img = "https://blog.mangata.finance/assets/posts/" | append: page.image %}
+  {% assign pageUrl = page.url | absolute_url %}
 
   <title>{{title}}</title>
 
@@ -31,13 +31,13 @@
 
   <meta content="{{title}}" property="og:title"/>
   <meta content="{{description}}" property="og:description"/>
-  <meta content="{{obrazok}}" property="og:image"/>
-  <meta content="{{page.url}}" property="og:url"/>
+  <meta content="{{img}}" property="og:image"/>
+  <meta content="{{pageUrl}}" property="og:url"/>
   <meta content="website" property="og:type"/>
 
   <meta content="summary_large_image" name="twitter:card"/>
   <meta content="{{title}}" name="twitter:title"/>
   <meta content="{{description}}" name="twitter:description"/>
-  <meta content="{{obrazok}}" name="twitter:image"/>
+  <meta content="{{img}}" name="twitter:image"/>
 
 </head>
