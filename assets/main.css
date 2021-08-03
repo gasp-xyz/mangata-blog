@@ -135,6 +135,9 @@ ul.post-list {
   line-height: 40px;
   height: 40px;
   margin-top: 16px;
+}
+
+.post .post-meta {
   display: flex;
   justify-content: space-between;
 }
