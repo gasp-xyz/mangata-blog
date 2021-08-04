@@ -2,8 +2,8 @@
 layout: post
 title:  Mangata Finance Accepted Into DeFi Alliance DeFi Startup Accelerator
 image: "mga-defi.jpg"
-author: "Mangata Team"
-author-image: "mangata-team.png"
+author: "Zoran Spirkovski"
+author-image: "zoran.jpg"
 excerpt: "<p>Mangata Finance joins the class of Sushiswap, dYdX, and Kyber network. </p><p>The DeFi Alliance Accelerator welcomes its latest member, Mangata Finance. The newly accelerated project will join DeFi Alliance’s six-week program. The accelerator program has helped projects like 0x, Acala, Synthetix, Loopring, and Zerion successfully navigate the DeFi startup scene.</p>"
 ---
 ### Mangata Finance joins the class of Sushiswap, dYdX, and Kyber network
