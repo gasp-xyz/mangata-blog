@@ -272,6 +272,12 @@ a.post-link {
   outline: none;
   font-family: inherit;
   font-size: inherit;
+  transition: color 2s ease-in;
+}
+
+.signup-input.error {
+  color: red;
+  transition: none;
 }
 
 .signup-button {
