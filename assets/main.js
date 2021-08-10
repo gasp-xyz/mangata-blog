@@ -20,7 +20,7 @@ signup_button.addEventListener('click', (e) => {
   }
 
   // fetch with post method and email body
-  fetch('http://testnode.mangata.finance:3066', {
+  fetch('https://testnode.mangata.finance:3067', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
