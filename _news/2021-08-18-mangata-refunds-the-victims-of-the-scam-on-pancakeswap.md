@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "Mangata refunds the victims of the scam on PancakeSwap"
-image: "mga-builders.jpg"
+title: "Mangata 决定赔偿 PancakeSwap 骗局的受害者<br />Mangata refunds the victims of the scam on PancakeSwap"
+image: "mga-scam-refund.jpg"
 author: "Mangata Team"
 author-image: "mangata-team.png"
+excerpt: "<p>上个周末，有人在 PancakeSwap 发起了一项活动，表示要售卖 MGA 代币。但是这些代币并不是真正的 MGA，而且和 Mangata Finance 没有关系。</p>"
 ---
-
-### Mangata 决定赔偿 PancakeSwap 骗局的受害者
 
 上个周末，有人在 PancakeSwap 发起了一项活动，表示要售卖 MGA 代币。但是这些代币并不是真正的 MGA，而且和 Mangata Finance 没有关系。
 
