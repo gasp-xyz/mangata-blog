@@ -38,7 +38,7 @@ author-image: "mangata-team.png"
 
 _English version of the post_
 
-## Mangata refunds the victims of the scam on PancakeSwap
+### Mangata refunds the victims of the scam on PancakeSwap
 
 Over the last weekend, there has been a campaign started on PancakeSwap, allegedly selling MGA tokens. The tokens were not real MGA and it had nothing to do with Mangata Finance.
 
