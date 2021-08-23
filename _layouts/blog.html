@@ -10,9 +10,9 @@ layout: default
 
   {%- include blog-nav.html -%}
 
-  {% assign allBlog = site.blog | reverse %}
+  {% assign allBlog = site.categories.blog  %}
 
-  {%- if site.blog.size > 0 -%}
+  {%- if allBlog.size > 0 -%}
     <ul class="post-list">
       {%- for blogItem in allBlog -%}
         <li class="post-list-item">

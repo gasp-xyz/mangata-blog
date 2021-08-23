@@ -10,9 +10,9 @@ layout: default
 
   {%- include blog-nav.html -%}
 
-  {% assign allNews = site.news | reverse %}
+  {% assign allNews = site.categories.news %}
 
-  {%- if site.news.size > 0 -%}
+  {%- if allNews.size > 0 -%}
     <ul class="post-list">
       {%- for newsItem in allNews -%}
         <li class="post-list-item">

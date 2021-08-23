@@ -21,24 +21,29 @@
 title: Mangata blog
 email: hello@mangata.finance
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Read our recent posts about DEXes, Polkadot and trading tools.
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://blog.mangata.finance' # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username: jekyll
-collections:
-  news:
-    output: true
-  blog: 
-    output: true
+# collections:
+#   news:
+#     output: true
+#   blog: 
+#     output: true
+
+feed:
+  categories:
+    - news
+    - blog
+
 
 permalink: /:year/:month/:day/:slug/
 # Build settings
 # theme: minima
-# plugins:
-# - jekyll-feed
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
