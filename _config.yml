@@ -38,7 +38,7 @@ feed:
     - blog
 
 
-permalink: /:year/:month/:day/:slug/
+permalink: /:categories/:year-:month-:day-:slug/
 # Build settings
 # theme: minima
 plugins:
