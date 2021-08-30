@@ -2,7 +2,7 @@
 layout: post
 title: "The first front-running attack on Karura just happened"
 date: 2021-08-30
-image: "mga-mev.jpg"
+image: "karura-frontrunning.jpg"
 author: "Mangata Team"
 author-image: "mangata-team.png"
 excerpt: "<p>On 25th August, 2021, the first known front-running attack on the Karura network happened. Front-running is a form of value extraction and we consider it theft. It is now coming to the Kusama ecosystem and will cost retail users millions of dollars in value. This article explains the details of the attack, how we were able to reproduce it and what the Mangata project plans to do to eliminate value extraction.</p>"
