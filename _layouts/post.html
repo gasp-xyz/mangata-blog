@@ -44,25 +44,6 @@ layout: default
 
   <div class="post-content">{{ content }}</div>
 
-  <div class="post-social">
-    <p>
-      Stay tuned for these updates and more by following our socials:<br/>
-      <a href="https://twitter.com/MangataFinance" target="_blank">Twitter</a>
-      |
-      <a href="https://discord.gg/X4VTaejebf" target="_blank">Discord</a>
-      |
-      <a href="https://t.me/mgtfi" target="_blank">Telegram</a>
-      |
-      <a href="https://mangata.finance" target="_blank">Website</a>
-      |
-      <a href="https://github.com/mangata-finance" target="_blank">Github</a>
-      |
-      <a href="https://www.linkedin.com/company/mangata-finance" target="_blank">Linkedin</a>
-      |
-      <a href="https://blog.mangata.finance" target="_blank">Blog</a>
-    </p>
-  </div>
-
   <div class="post-share-bottom">
     <span class="share">
       <span class="share-headline">Share post</span>
@@ -82,14 +63,34 @@ layout: default
   </div>
 
   <div class="post-signup">
-    <h3>Know the rumours. Subscribe!</h3>
-    <p>Subscribe to the newsletter and follow Mangata on social media</p>
-    <form autocomplete="off">
-      <div class="signup-wrapper">
-        <input autocomplete="off" autocorrect="off" class="signup-input" name="email" pattern=".*@.*\..*" placeholder="Enter your email address" required title="Please enter a valid email address." type="text" value="">
-        <button class="signup-button" name="subscribe" type="submit">Subscribe</button>
+    <img src="/assets/images/newsletter-art.png" alt="Artwork" />
+    <div class="post-signup__inner">
+      <h3>Stay tuned for the blog updates</h3>
+      <p>Subscribe to the newsletter and follow Mangata on social media.</p>
+      <form autocomplete="off">
+        <div class="signup-wrapper">
+          <input autocomplete="off" autocorrect="off" class="signup-input" name="email" pattern=".*@.*\..*" placeholder="Enter your email address" required title="Please enter a valid email address." type="text" value="" />
+          <button class="signup-button" name="subscribe" type="submit">Subscribe</button>
+        </div>
+      </form>
+      <div class="post-signup__inner__social-links">
+        <a href="https://twitter.com/MangataFinance" target="_blank">
+          <img alt="Twitter" height="28" src="/assets/images/twitter.svg" width="28"/>
+        </a>
+        <a href="https://www.linkedin.com/company/mangata-finance" target="_blank">
+          <img alt="LinkedIn" height="28" src="/assets/images/linkedin.svg" width="28"/>
+        </a>
+        <a href="https://github.com/mangata-finance" target="_blank">
+          <img alt="GitHub" height="28" src="/assets/images/github.svg" width="28"/>
+        </a>
+        <a href="https://discord.gg/X4VTaejebf" target="_blank">
+          <img alt="Discord" height="28" src="/assets/images/discord.svg" width="28"/>
+        </a>
+        <a href="https://t.me/mgtfi" target="_blank">
+          <img alt="Telegram" height="28" src="/assets/images/telegram.svg" width="28"/>
+        </a>
       </div>
-    </form>
+    </div>
   </div>
 
   <a href="{{ page.url | relative_url }}" hidden></a>
