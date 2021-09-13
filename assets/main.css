@@ -334,8 +334,9 @@ a.post-link {
 }
 
 footer {
+  padding: 72px 24px 96px;
+  overflow-x: hidden;
   position: relative;
-  height: 265px;
   max-width: 900px;
   margin: 0 auto;
   margin-top: 200px;
@@ -344,20 +345,12 @@ footer {
 }
 
 footer .logo {
-  position: absolute;
-  top: 50px;
-  left: 0px;
+  margin: 0;
 }
 
 footer .birds {
   left: 20%;
   width: 80%;
-}
-
-nav.footer-nav {
-  position: absolute;
-  top: 70px;
-  left: 60%;
 }
 
 .footer-nav section {
@@ -402,6 +395,31 @@ nav.footer-nav {
     margin-top: 136px;
   }
 
+  footer {
+    padding: 40px 24px;
+    flex-direction: column;
+  }
+
+  footer .logo img {
+    max-width: 184px;
+    height: auto;
+  }
+
+  footer .birds {
+    width: 316px;
+    top: -32px;
+    left: 30%;
+  }
+
+  footer .footer-nav {
+    padding-top: 56px;
+  }
+
+  footer .footer-nav section {
+    margin-right: 48px;
+    margin-left: 0;
+  }
+
   nav.main-nav a.testnet {
     display: none;
   }
@@ -417,16 +435,6 @@ nav.footer-nav {
 
   nav.main-nav {
     margin-top: 28px;
-  }
-
-  nav.footer-nav {
-    top: 200px;
-    left: 24px;
-  }
-
-  nav.footer-nav section {
-    margin-left: 0;
-    margin-right: 78px;
   }
 
   .blog-nav {
@@ -467,5 +475,16 @@ nav.footer-nav {
     display: flex;
     flex-direction: column;
     background: transparent;
+  }
+}
+
+@media screen and (max-width: 560px) {
+  footer .footer-nav {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  footer .footer-nav section {
+    margin-right: 0;
   }
 }
