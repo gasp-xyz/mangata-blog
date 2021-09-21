@@ -105,12 +105,12 @@ window.addEventListener('resize', handleScroll)
 const logo = document.querySelector('#site-header .logo img')
 
 const setHeaderLogo = () => {
-  if (logo) {
-    if (window.innerWidth <= 600) {
-      logo.src = '/assets/images/logo-mobile.png'
-    } else {
-      logo.src = '/assets/images/logo.svg'
-    }
+  if (!logo) return
+
+  if (window.innerWidth <= 600) {
+    logo.src = '/assets/images/logo-mobile.png'
+  } else {
+    logo.src = '/assets/images/logo.svg'
   }
 }
 
