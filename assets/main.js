@@ -63,7 +63,7 @@ const header = document.getElementById('site-header')
 const headerCta = document.getElementById('header-cta')
 
 if (header) {
-  header.style.setProperty('--cta-width', `${headerCta.offsetWidth}px` || '120px')
+  header.style.setProperty('--cta-width', headerCta ? `${headerCta.offsetWidth}px` : '120px')
 }
 
 const showCta = () => {
