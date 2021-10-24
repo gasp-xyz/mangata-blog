@@ -48,4 +48,4 @@ Until next week!
 
 *Mangata Team*
 
-PS: Did you already have time to participate in our Wallet Survey? It will help us build a trading UI that suits your needs and it only takes two minutes: Fill out the Form.
+PS: Did you already have time to participate in our Wallet Survey? It will help us build a trading UI that suits your needs and it only takes two minutes: [Fill out the Form.](https://docs.google.com/forms/d/e/1FAIpQLSfNNB2CcMdV2M-KVy45mu3brWmcOG06MF5SChO9tJcwLA3qhQ/viewform){:target="\_blank"}
