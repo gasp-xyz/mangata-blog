@@ -10,6 +10,8 @@ excerpt: "<p>Proof-of-Liquidity is a novel consensus mechanism that builds on Pr
 
 *Proof-of-Liquidity is a novel consensus mechanism that builds on Proof-of-Stake but eliminates the problem of locked capital, which is detrimental to DeFi. This article explains why we at Mangata think capital efficiency will define the Endgame for DEXes, how app-specific chains can fix the problems that DeFi has on Ethereum and how we arrived at the new paradigm of Proof-of-Liquidity.*
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9UWhei5w2e4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## The True Endgame for DEXes will be...
 Not all DEXes are created equal. While currently there is a race about which DEX can offer the best liquidity mining programs, it is obvious that giving away free money won’t be a sustainable tactic in the long run. The true end game for DeFi and DEXes will be decided on another question: Which protocols will be the most capital efficient?
 
