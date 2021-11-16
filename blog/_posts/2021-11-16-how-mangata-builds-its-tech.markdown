@@ -5,7 +5,7 @@ date: 2021-11-16
 image: "2021-11-16-how-mangata-builds-its-tech.png"
 author: "Mangata Team"
 author-image: "mangata-team.png"
-excerpt: "<p>Proof-of-Liquidity is a novel consensus mechanism that builds on Proof-of-Stake but eliminates the problem of locked capital, which is detrimental to DeFi. This article explains why we at Mangata think capital efficiency will define the Endgame for DEXes, how app-specific chains can fix the problems that DeFi has on Ethereum and how we arrived at the new paradigm of Proof-of-Liquidity.</p>"
+excerpt: "<p>Building a blockchain is a unique challenge, even for software developers. It imposes unique constraints while requiring strict focus on security and performance. In this Mangata Monday talk, our tech lead Gleb Urvanov explains how Mangata's 11 full time engineers work together in 3 teams to deliver our next-generation DEX-chain.</p>"
 ---
 
 
