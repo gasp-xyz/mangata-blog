@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tech Talk: Modifying the Block Execution in Substrate"
-date: 2021-11-16
+date: 2021-11-20
 image: "2021-11-20-modifying-the-block-execution-in-substrate.png"
 author: "Mangata Team"
 author-image: "mangata-team.png"
