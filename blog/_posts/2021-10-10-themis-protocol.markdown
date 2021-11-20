@@ -152,5 +152,11 @@ The current design assumes the malicious actors are acting selfishly and with no
 
 This solution has been implemented in the Substrate framework using the Rust programming language, within the AURA consensus and will be connected as a parachain in the Polkadot network. You can check the repository here: [https://github.com/mangata-finance/mangata-node](https://github.com/mangata-finance/mangata-node){:target="\_blank"}
 
+## Watch the technical deep dive
+We went into the technical implementation at the Sub0 conference hosted by Parity Technologies:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U8nMwhkzBwo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 *The research is led by Gleb Urvanov.*
 *Thanks to Xinshu Dong, Luke Pearson, Will Wolf, Marcin Gorny and the whole team at Substrate Builders for contributing comments and ideas.*

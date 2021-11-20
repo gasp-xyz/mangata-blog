@@ -8,8 +8,6 @@ author-image: "mangata-team.png"
 excerpt: "<p>Building a blockchain is a unique challenge, even for software developers. It imposes unique constraints while requiring strict focus on security and performance. In this Mangata Monday talk, our tech lead Gleb Urvanov explains how Mangata's 11 full time engineers work together in 3 teams to deliver our next-generation DEX-chain.</p>"
 ---
 
-
-
 Building a blockchain is a unique challenge, even for software developers. It imposes unique constraints while requiring strict focus on security and performance.
 
 In this Mangata Monday talk, our tech lead Gleb Urvanov explains how Mangata's 11 full time engineers work together in 3 teams to deliver our next-generation DEX-chain.
