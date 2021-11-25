@@ -18,7 +18,7 @@ In this talk, Mangata's Test Lead Engineer Gonzalo Cerro gives you a look into h
 
 Watch the presentation here: 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U8nMwhkzBwo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qU93H1DQObM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Join the Mangata Pioneers
 Want to become part of our revolution?
