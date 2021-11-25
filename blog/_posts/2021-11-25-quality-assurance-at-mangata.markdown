@@ -5,10 +5,10 @@ date: 2021-11-25
 image: "2021-11-25-quality-assurance-at-mangata.png"
 author: "Mangata Team"
 author-image: "mangata-team.png"
-excerpt: "<p>Themis Protocol prevents MEV and front-running by changing the way blocks for the blockchain are created. In this tech talk, Mangatas' Lead Rust Engineer, Mateusz Nowakowski, explains the solution and technical changes we had to made to block creation to implement our solution.</p>"
+excerpt: "<p>Business continuity is critical on a blockchain. Blocks need to be produced in regular intervals, like a heartbeat. Errors that result in a stalling chain are usually met with a lot of critique. On modern and complex blockchain technology stacks like Substrate, which also powers the Polkadot ecosystem, even more test cases have to be considered and the task doesn't get easier. This is why we at Mangata put a lot of focus on quality assurance and properly testing our tech.</p><p>In this talk, Mangata's Quality & Test Engineers Gonzalo Cerro and Edward Haigh give you an inside look into how quality assurance in a blockchain development environment works</p>"
 ---
 
-Business continuity is critical on a blockchain. Blocks need to be produced in regular intervals, like a heartbeat. Errors that result in a stalling chain are usually met with a lot of critique. This is why we at Mangata put a lot of focus on quality assurance and properly testing our tech.  
+Business continuity is critical on a blockchain. Blocks need to be produced in regular intervals, like a heartbeat. Errors that result in a stalling chain are usually met with a lot of critique. On modern and complex blockchain technology stacks like Substrate, which also powers the Polkadot ecosystem, even more test cases have to be considered and the task doesn't get easier. This is why we at Mangata put a lot of focus on quality assurance and properly testing our tech.
 
 In this talk, Mangata's Quality & Test Engineers Gonzalo Cerro and Edward Haigh give you an inside look into how quality assurance in a blockchain development environment works:
 - How do we test?
