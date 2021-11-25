@@ -8,9 +8,9 @@ author-image: "mangata-team.png"
 excerpt: "<p>Themis Protocol prevents MEV and front-running by changing the way blocks for the blockchain are created. In this tech talk, Mangatas' Lead Rust Engineer, Mateusz Nowakowski, explains the solution and technical changes we had to made to block creation to implement our solution.</p>"
 ---
 
-Business continuity is critical on a blockchain. Blocks need to be produced in regular intervals, like a heartbeat. Errors that result in a stalling chain are usually met with a lot of critique. This is why we at Mangata put a lot of focus on quality assurance and properly testing our tech.
+Business continuity is critical on a blockchain. Blocks need to be produced in regular intervals, like a heartbeat. Errors that result in a stalling chain are usually met with a lot of critique. This is why we at Mangata put a lot of focus on quality assurance and properly testing our tech.  
 
-In this talk, Mangata's Test Lead Engineer Gonzalo Cerro gives you a look into how quality assurance in a blockchain development environment works:
+In this talk, Mangata's Quality & Test Engineers Gonzalo Cerro and Edward Haigh give you an inside look into how quality assurance in a blockchain development environment works:
 - How do we test?
 - What do we test?
 - How can tests be automated?
