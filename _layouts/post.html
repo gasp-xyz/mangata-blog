@@ -4,13 +4,14 @@ layout: default
 
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
   <header class="post-header">
-    {%- assign date_format =  "%b %-d, %Y" -%}
+    {%- assign date_format = "%b %-d, %Y" -%}
     <h1 class="post-title">{{ page.title }}</h1>
 
     <div class="post-meta">
 
       <span class="left">
-        <img class="author-image" src="/assets/authors/{{page.author-image}}" width="40" height="40" alt="{{post.author}}"/>
+        <img class="author-image" src="/assets/authors/{{page.author-image}}"
+          width="40" height="40" alt="{{post.author}}" />
 
         <span class="author">
           by
@@ -25,14 +26,23 @@ layout: default
           <span class="share-headline">Share post</span>
           {% assign pageUrl = page.url | absolute_url %}
           <span class="share-links">
-            <a class="post-share-link" href="https://www.facebook.com/sharer/sharer.php?u={{pageUrl}}&amp;title={{page.title | escape}}" target="_blank">
-              <img alt="Facebook" height="28" src="/assets/images/facebook.png" width="28"/>
+            <a class="post-share-link"
+              href="https://www.facebook.com/sharer/sharer.php?u={{pageUrl}}&amp;title={{page.title | escape}}"
+              target="_blank">
+              <img alt="Facebook" height="28" src="/assets/images/facebook.png"
+                width="28" />
             </a>
-            <a class="post-share-link" href="https://twitter.com/intent/tweet?url={{pageUrl}}&amp;text={{page.title | escape}}" target="_blank">
-              <img alt="Twitter" height="28" src="/assets/images/twitter.png" width="28"/>
+            <a class="post-share-link"
+              href="https://twitter.com/intent/tweet?url={{pageUrl}}&amp;text={{page.title | escape}}"
+              target="_blank">
+              <img alt="Twitter" height="28" src="/assets/images/twitter.png"
+                width="28" />
             </a>
-            <a class="post-share-link" href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{pageUrl}}&amp;title={{page.title | escape}}" target="_blank">
-              <img alt="Linkedin" height="28" src="/assets/images/linkedin.png" width="28"/>
+            <a class="post-share-link"
+              href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{pageUrl}}&amp;title={{page.title | escape}}"
+              target="_blank">
+              <img alt="Linkedin" height="28" src="/assets/images/linkedin.png"
+                width="28" />
             </a>
           </span>
         </span>
@@ -40,7 +50,8 @@ layout: default
     </div>
   </header>
 
-  <img class="post-image" src="/assets/posts/{{page.image}}" alt="{{page.title}}"/>
+  <img class="post-image" src="/assets/posts/{{page.image}}"
+    alt="{{page.title}}" />
 
   <div class="post-content">{{ content }}</div>
 
@@ -49,18 +60,28 @@ layout: default
       <span class="share-headline">Share post</span>
       {% assign pageUrl = page.url | absolute_url %}
       <span class="share-links">
-        <a class="post-share-link" href="https://www.facebook.com/sharer/sharer.php?u={{pageUrl}}&amp;title={{page.title | escape}}" target="_blank">
-          <img alt="Facebook" height="28" src="/assets/images/facebook.png" width="28"/>
+        <a class="post-share-link"
+          href="https://www.facebook.com/sharer/sharer.php?u={{pageUrl}}&amp;title={{page.title | escape}}"
+          target="_blank">
+          <img alt="Facebook" height="28" src="/assets/images/facebook.png"
+            width="28" />
         </a>
-        <a class="post-share-link" href="https://twitter.com/intent/tweet?url={{pageUrl}}&amp;text={{page.title | escape}}" target="_blank">
-          <img alt="Twitter" height="28" src="/assets/images/twitter.png" width="28"/>
+        <a class="post-share-link"
+          href="https://twitter.com/intent/tweet?url={{pageUrl}}&amp;text={{page.title | escape}}"
+          target="_blank">
+          <img alt="Twitter" height="28" src="/assets/images/twitter.png"
+            width="28" />
         </a>
-        <a class="post-share-link" href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{pageUrl}}&amp;title={{page.title | escape}}" target="_blank">
-          <img alt="Linkedin" height="28" src="/assets/images/linkedin.png" width="28"/>
+        <a class="post-share-link"
+          href="https://www.linkedin.com/shareArticle?mini=true&amp;url={{pageUrl}}&amp;title={{page.title | escape}}"
+          target="_blank">
+          <img alt="Linkedin" height="28" src="/assets/images/linkedin.png"
+            width="28" />
         </a>
       </span>
     </span>
-    <a href="https://app.mangata.finance" target="_blank" rel="noopener noreferrer" class="post-share-bottom__trade-btn">
+    <a href="https://app.mangata.finance" target="_blank"
+      rel="noopener noreferrer" class="post-share-bottom__trade-btn">
       Trade with Mangata
     </a>
   </div>
@@ -72,25 +93,38 @@ layout: default
       <p>Subscribe to the newsletter and follow Mangata on social media.</p>
       <form autocomplete="off">
         <div class="signup-wrapper">
-          <input autocomplete="off" autocorrect="off" class="signup-input" name="email" pattern=".*@.*\..*" placeholder="Enter your email address" required title="Please enter a valid email address." type="text" value="" />
-          <button class="signup-button" name="subscribe" type="submit">Subscribe</button>
+          <input autocomplete="off" autocorrect="off" class="signup-input"
+            name="email" pattern=".*@.*\..*"
+            placeholder="Enter your email address" required
+            title="Please enter a valid email address." type="text" value="" />
+          <button class="signup-button" name="subscribe"
+            type="submit">Subscribe</button>
         </div>
       </form>
+      <div class="post-signup__inner__join-the-community">
+        Join the community
+      </div>
       <div class="post-signup__inner__social-links">
         <a href="https://twitter.com/MangataFinance" target="_blank">
-          <img alt="Twitter" height="28" src="/assets/images/twitter.svg" width="28"/>
+          <img alt="Twitter" height="28" src="/assets/images/twitter.svg"
+            width="28" />
         </a>
-        <a href="https://www.linkedin.com/company/mangata-finance" target="_blank">
-          <img alt="LinkedIn" height="28" src="/assets/images/linkedin.svg" width="28"/>
+        <a href="https://www.linkedin.com/company/mangata-finance"
+          target="_blank">
+          <img alt="LinkedIn" height="28" src="/assets/images/linkedin.svg"
+            width="28" />
         </a>
         <a href="https://github.com/mangata-finance" target="_blank">
-          <img alt="GitHub" height="28" src="/assets/images/github.svg" width="28"/>
+          <img alt="GitHub" height="28" src="/assets/images/github.svg"
+            width="28" />
         </a>
         <a href="https://discord.gg/X4VTaejebf" target="_blank">
-          <img alt="Discord" height="28" src="/assets/images/discord.svg" width="28"/>
+          <img alt="Discord" height="28" src="/assets/images/discord.svg"
+            width="28" />
         </a>
         <a href="https://t.me/mgtfi" target="_blank">
-          <img alt="Telegram" height="28" src="/assets/images/telegram.svg" width="28"/>
+          <img alt="Telegram" height="28" src="/assets/images/telegram.svg"
+            width="28" />
         </a>
       </div>
     </div>
