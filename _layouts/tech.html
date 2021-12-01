@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+<div class="home">
+  <h1 class="page-heading">Tech Insights</h1>
+
+  {% assign current = page.url | downcase %}
+  {%- assign date_format =  "%b %-d, %Y" -%}
+
+  {%- include blog-nav.html -%}
+
+  {% assign allTech = site.categories.tech %}
+
+  {%- if allTech.size > 0 -%}
+    <ul class="post-list">
+      {%- for techItem in allTech -%}
+        <li class="post-list-item">
+          <a href="{{ techItem.url | relative_url }}">
+            <img class="post-image" src="/assets/posts/{{techItem.image}}" alt="{{techItem.title}}"/>
+          </a>
+
+          <h3>
+            <a class="post-link" href="{{ techItem.url | relative_url }}">
+              {{ techItem.title }}
+            </a>
+          </h3>
+
+          <span class="post-meta">
+            <img class="author-image" src="/assets/authors/{{techItem.author-image}}" width="40" height="40" alt="{{techItem.author}}"/>
+
+            <span class="author">
+              by
+              {{techItem.author}}</span>
+
+            <span class="date">{{ techItem.date | date: date_format }}</span>
+
+
+          </span>
+
+          <div class="excerpt">{{ techItem.excerpt }}</div>
+        </li>
+      {%- endfor -%}
+    </ul>
+
+  {%- endif -%}
+</div>

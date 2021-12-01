@@ -2,4 +2,5 @@
 <nav class="blog-nav">
   <a {% if (current == '/') %} class="active" {% endif %} href="/">Blog Posts</a>
   <a {% if (current contains 'news') %} class="active" {% endif %} href="/news">News</a>
+  <a {% if (current contains 'tech') %} class="active" {% endif %} href="/tech">Tech Insights</a>
 </nav>
