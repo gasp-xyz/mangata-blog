@@ -36,6 +36,7 @@ feed:
   categories:
     - news
     - blog
+    - tech
 
 
 permalink: /:categories/:year-:month-:day-:slug/
