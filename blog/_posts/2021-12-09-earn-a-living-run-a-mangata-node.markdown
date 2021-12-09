@@ -38,7 +38,7 @@ Bitcoin changed the world by introducing Blockchain technology. The node operato
 
 Over time, the hashrate required to mine a single block became so high that no individual node operator could hope to mine alone and ever have the chance to find a single block and get rewarded. Thus, mining pools were born, where everyone could direct their hash power to a pool that would gather the hashrate, mine blocks and share the rewards. 
 
-![Bitcoin Centralization](assets/posts/2021-12-bitcoin-centralization.png)
+![Bitcoin Centralization](/assets/posts/2021-12-bitcoin-centralization.png)
 
 (Source: [https://btc.com/stats/pool?pool_mode=month](https://btc.com/stats/pool?pool_mode=month))
 
@@ -46,7 +46,7 @@ The result is that the 4 largest Bitcoin mining pools take over 50% of the hashr
 
 For Ethereum, the issue is magnified and just 3 pools control over 50% of the hashrate:
 
-![Ethereum Centralization](assets/posts/2021-12-ethereum-centralization.png)
+![Ethereum Centralization](/assets/posts/2021-12-ethereum-centralization.png)
 
 (Source: [https://etherscan.io/stat/miner?range=7&blocktype=blocks](https://etherscan.io/stat/miner?range=7&blocktype=blocks))
 
