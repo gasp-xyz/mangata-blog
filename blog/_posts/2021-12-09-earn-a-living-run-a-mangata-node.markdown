@@ -2,7 +2,7 @@
 layout: post
 title: "Earn a Living - Run a Mangata Node"
 date: 2021-12-09
-image: "2021-12-09-earn-a-living-run-a-mangata-node.markdown"
+image: "2021-12-09-earn-a-living-run-a-mangata-node.png"
 author: "Mangata Team"
 author-image: "mangata-team.png"
 excerpt: "<p>This is a post about how centralizing network effects are marginalizing individual node operators and how this puts the decentralization of the whole blockchain ecosystem at risk. We summarize our thoughts, research and results from community calls. And we will show first building blocks to solve the issues and the path we want to take to fix this.</p><p>At the end of the post, we will invite you to become part of the solution and earn a living by running a node for the Mangata blockchain.</p>"
