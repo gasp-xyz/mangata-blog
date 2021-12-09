@@ -121,7 +121,7 @@ We will launch our closed beta testnet in January. If you want to be part of thi
 
 [Apply to become a Mangata Collator](https://docs.google.com/forms/d/e/1FAIpQLSdcsa9AT3113Zpg3DzQ0Fg5oydoxvgt0k1fyJjA8cTabdSqiA/viewform?usp=sf_link)
 
-We invite you to become part of this yourney to explore new decentralization perspectives. We invite you to become a Mangata Pioneer!
+We invite you to become part of this journey to explore new decentralization perspectives. We invite you to become a Mangata Pioneer!
 
 ## FAQ
 
