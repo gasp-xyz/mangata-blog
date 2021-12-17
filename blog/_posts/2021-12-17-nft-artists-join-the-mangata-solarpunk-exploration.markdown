@@ -91,7 +91,7 @@ On 6th January we will close the submission form and start selecting submissions
 
 ## Ready to join the Mangata Solarpunk Exploration Challenge?
 
-- Read the Briefing
+- Read the [Mangata Solarpunk Briefing](/assets/posts/Mangata_Solarpunk_Briefing.pdf){:target="\_blank"}
 - [Join the Discord](https://discord.com/invite/wTjd22gPWG){:target="\_blank"}
 - Submit your art here: [Form](https://docs.google.com/forms/d/e/1FAIpQLSe8ZFnbvG_miL6P8OVRRi267cdGY96SnzZZ1yTX81sjr2d2Kw/viewform?usp=sf_link){:target="\_blank"}
 - Use the #MangataSolarpunk Hashtag if you post it on Social Media
