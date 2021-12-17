@@ -2,7 +2,7 @@
 layout: post
 title: "NFT Artists: Join the Mangata Solarpunk Exploration Challenge"
 date: 2021-12-17
-image: "2021-12-17-airship.png"
+image: "2021-12-17-airship.jpg"
 author: "Mangata Team"
 author-image: "mangata-team.png"
 excerpt: "<p>We are doing a crowdsourced study that explores Solarpunk in the context of Dotsama. We invite all artists to join and create a piece that contributes the the universe. The best pieces will be selected for a shared collection and any proceeds will be forwarded to the artists.</p>"
@@ -22,7 +22,7 @@ Art is always on the forefront of new innovations. This has been the case for th
 
 Art captures emotions and trends far better than blog posts can often do. Consider the Kusama image video for example:
 
-[https://www.youtube.com/watch?v=bMegZaFfrzI](https://www.youtube.com/watch?v=bMegZaFfrzI)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bMegZaFfrzI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The message is clear: "Builders & Innovators, if you want to fix the Internet, build on Kusama!"
 
@@ -70,7 +70,7 @@ This can also help us make complex technical solutions understandable in a fun a
 
 Instead of rambling about gas prices for transactions being too high because of network congestions, why not just draw the streets on the Nation of Ethereum packed with cars and gas stations raising prices?
 
-![A meme claiming "The Gas Prices are too damn high"](/assets/posts/2021-12-17-matrix.png)
+![A meme claiming "The Gas Prices are too damn high"](/assets/posts/2021-12-17-gas-prices.png)
 
 **If artists can do one thing best, it is explaining complex concepts with simple emotions.**
 
