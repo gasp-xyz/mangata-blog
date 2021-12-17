@@ -8,8 +8,6 @@ author-image: "mangata-team.png"
 excerpt: "<p>We are doing a crowdsourced study that explores Solarpunk in the context of Dotsama. We invite all artists to join and create a piece that contributes the the universe. The best pieces will be selected for a shared collection and any proceeds will be forwarded to the artists.</p>"
 ---
 
-tl;dr - We are doing a crowdsourced study that explores Solarpunk in the context of Dotsama. We invite all artists to join and create a piece that contributes the the universe. The best pieces will be selected for a shared collection and any proceeds will be forwarded to the artists.
-
 *I couldn't believe my eyes when we flew over the Dotsama continent for the first time!*
 
 *It was nothing like the expensive and grey business districts of the overcrowded Nation of Ethereum. This was different... this was new! Innovators and Builders were moving to this new place to collaborate on new technologies, social networks, identity hubs, futarchies. Artists were creating remarkable pieces and metaverses. I knew it the moment I saw it: This is the future!*
@@ -17,6 +15,8 @@ tl;dr - We are doing a crowdsourced study that explores Solarpunk in the context
 *Flying over Dotsama, we saw the building blocks of this new society: Individual islands, each with their own governance, all connected to two main islands: Polkadot and Kusama. We passed the huge Themis statue that we heard so many stories about. While the airwhale was landing on a platform, I already knew that I have found my new home.*
 
 ![The godess Themis greeting you](/assets/posts/themis-cover.png)
+
+tl;dr - We are doing a crowdsourced study that explores Solarpunk in the context of Dotsama. We invite all artists to join and create a piece that contributes the the universe. The best pieces will be selected for a shared collection and any proceeds will be forwarded to the artists.
 
 Art is always on the forefront of new innovations. This has been the case for thousands of years. It's no wonder that NFTs and the Metaverse are now one of the fastest growing economies in Crypto. And while some worry about the commodification of art, we at Mangata see that there is still so much untapped potential of how art and artists will evolve with this new technological possibilities.
 
