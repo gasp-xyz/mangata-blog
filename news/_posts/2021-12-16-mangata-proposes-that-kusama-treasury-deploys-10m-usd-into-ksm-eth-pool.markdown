@@ -10,7 +10,7 @@ excerpt: "<p>Mangata wants to open liquidity gates between Ethereum and Kusama.<
 
 ## Mangata wants to open liquidity gates between Ethereum and Kusama
 
-Mangata Finance has submitted a [proposal](https://kusama.polkassembly.io/post/1224](https://kusama.polkassembly.io/post/1224){:target="\_blank"} to the Kusama Treasury intended to scale up the capital exchange between the Ethereum and Kusama ecosystems. The proposal asks the Kusama Treasury (which currently holds 140m USD in value) to deploy 10m USD worth of liquidity into a KSM-ETH liquidity pool at the Mangata DEX Parachain on Kusama, scheduled to launch in Q1 2021. Mangata expects the KSM-ETH pool to become one of the most important capital exchange points between the Ethereum and Kusama ecosystems.
+Mangata Finance has submitted a [proposal](https://kusama.polkassembly.io/post/1224){:target="\_blank"} to the Kusama Treasury intended to scale up the capital exchange between the Ethereum and Kusama ecosystems. The proposal asks the Kusama Treasury (which currently holds 140m USD in value) to deploy 10m USD worth of liquidity into a KSM-ETH liquidity pool at the Mangata DEX Parachain on Kusama, scheduled to launch in Q1 2021. Mangata expects the KSM-ETH pool to become one of the most important capital exchange points between the Ethereum and Kusama ecosystems.
 
 “This proposal is set to enable liquidity flow from Ethereum to Polkadot. Mangata will be a key DEX between Ethereum, Polkadot and Kusama. After years of preparation, the Polkadot and Kusama ecosystems are finally launching the next generation of DeFi-specific Parachains. Once the first bridges go live, Mangata will be there to allow easy and secure trading of every asset available”, said Peter Kris, CEO of Mangata Finance.
 
