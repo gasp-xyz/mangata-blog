@@ -75,9 +75,11 @@ Instead of rambling about gas prices for transactions being too high because of 
 So why not have fun inventing a Solarpunk Universe while also minting some NFTs?
 
 ## How the Challenge works
+The ultimate goal is have a collection of sketches and artworks in our new Mangata Solarpunk Universe as the result of this collaborative exploration.
+
 Our goal is to explore this space together and find new inspiration on how we at Mangata can explain complex concepts with simple emotions. Our thinking is that if we create a place where we can allow a collective of artists meet and create together, it will turbo-charge this creative process. 
 
-We provide all artists with the [Mangata Solarpunk Briefing](/assets/posts/Mangata_Solarpunk_Briefing.pdf) ) and a common [Solarpunk art discussion channel at the Mangata Discord](https://discord.gg/wTjd22gPWG). You are invited to create any piece of art you can think of: Backgrounds, Sets, Characters, Items... you name it! It can be 1D, 2D or 3D. It can be still or animated. You can exchange ideas, sketches and stories on Discord.
+We provide all artists with the [Mangata Solarpunk Briefing](/assets/posts/Mangata_Solarpunk_Briefing.pdf) and a common [Solarpunk art discussion channel at the Mangata Discord](https://discord.gg/wTjd22gPWG). You are invited to create any piece of art you can think of: Backgrounds, Sets, Characters, Items... you name it! It can be 1D, 2D or 3D. It can be still or animated. You can exchange ideas, sketches and stories on Discord.
 
 **Let's explore where our collective imagination guides us!**
 
