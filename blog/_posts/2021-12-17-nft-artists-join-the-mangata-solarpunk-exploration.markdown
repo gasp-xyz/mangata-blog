@@ -33,7 +33,6 @@ Kusama is very much Cyberpunk. It still lives in the more hidden corners of the 
 But while Cyberpunk is a pretty cool genre of art, it still induces a dark, dystopian and unsettling feeling: If Technology is King, where does it leave humans? A common motto of Cyberpunk is: "High Tech, Low Life." It is the reason why Cyberpunk is often used as genre to critique the negative effects of a highly technologized society that risks leaving individuals behind for the sake of the collective progress.
 
 ![The main characters from the Cyberpunk Movie "The Matrix"](/assets/posts/2021-12-17-matrix.png)
-*Neo wants you to check out his new NFT collection.*
 
 Not all is dark in Cyberpunk, as it also helps point out dangers to which our society needs to pay attention to. Cyberpunk often tells a story of rebellion against inhuman tendencies. But the unsettling feeling of the story is still there and it is telling us something important: A better and brighter future is possible...
 
@@ -42,7 +41,6 @@ Not all is dark in Cyberpunk, as it also helps point out dangers to which our so
 Solarpunk starts out by rejecting the premise of "High Tech - Low Life" and asks: "How would the world look like if we use technology to make it better?"
 
 ![A Solarpunk world](/assets/posts/2021-12-17-solarpunk.png)
-*We couldn't find the original source for this image. But if you look for "Solarpunk" on the web, it is found everywhere.*
 
 Solarpunk is optimistic and Utopian. It shows a world that has overcome its problems by embracing technology in a positive way. A bit was written about it (the [Solarpunk Manifesto](https://www.re-des.org/a-solarpunk-manifesto/) might be the best primer on it) and you can find loads of content on [Artstation](https://www.artstation.com/search?sort_by=relevance&query=solarpunk), [Pinterest](https://www.pinterest.at/search/pins/?q=solarpunk), [Instagram](https://www.instagram.com/explore/tags/solarpunk/), [DeviantArt](https://www.deviantart.com/search?q=solarpunk) & [Reddit](https://www.reddit.com/r/solarpunk/top/?t=month). 
 
