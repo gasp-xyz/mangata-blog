@@ -42,15 +42,15 @@ Solarpunk starts out by rejecting the premise of "High Tech - Low Life" and asks
 
 ![A Solarpunk world](/assets/posts/2021-12-17-solarpunk.png)
 
-Solarpunk is optimistic and Utopian. It shows a world that has overcome its problems by embracing technology in a positive way. A bit was written about it (the [Solarpunk Manifesto](https://www.re-des.org/a-solarpunk-manifesto/) might be the best primer on it) and you can find loads of content on [Artstation](https://www.artstation.com/search?sort_by=relevance&query=solarpunk), [Pinterest](https://www.pinterest.at/search/pins/?q=solarpunk), [Instagram](https://www.instagram.com/explore/tags/solarpunk/), [DeviantArt](https://www.deviantart.com/search?q=solarpunk) & [Reddit](https://www.reddit.com/r/solarpunk/top/?t=month). 
+Solarpunk is optimistic and Utopian. It shows a world that has overcome its problems by embracing technology in a positive way. A bit was written about it (the [Solarpunk Manifesto](https://www.re-des.org/a-solarpunk-manifesto/){:target="\_blank"} might be the best primer on it) and you can find loads of content on [Artstation](https://www.artstation.com/search?sort_by=relevance&query=solarpunk){:target="\_blank"}, [Pinterest](https://www.pinterest.at/search/pins/?q=solarpunk){:target="\_blank"}, [Instagram](https://www.instagram.com/explore/tags/solarpunk/){:target="\_blank"}, [DeviantArt](https://www.deviantart.com/search?q=solarpunk){:target="\_blank"} & [Reddit](https://www.reddit.com/r/solarpunk/top/?t=month){:target="\_blank"}. 
 
 ### We see glimpses of Solarpunk in Dotsama already...
 
-The recent [RMRK Kanaria: Skybreach Metaverse announcement](https://app.subsocial.network/@rmrkapp/introducing-kanaria-skybreach-27024) shows some fancy flying islands and a flying ship.
+The recent [RMRK Kanaria: Skybreach Metaverse announcement](https://app.subsocial.network/@rmrkapp/introducing-kanaria-skybreach-27024){:target="\_blank"} shows some fancy flying islands and a flying ship.
 
 ![The Kanaria Skybreach cover art](/assets/posts/2021-12-17-kanaria.png)
 
-The recent [Talisman Extension announcement](https://medium.com/we-are-talisman/the-talisman-extension-is-here-247842989f9d) similarly offered a fantasy universe with floating islands in the background. 
+The recent [Talisman Extension announcement](https://medium.com/we-are-talisman/the-talisman-extension-is-here-247842989f9d){:target="\_blank"} similarly offered a fantasy universe with floating islands in the background. 
 
 ![The Talisman Wallet cover art](/assets/posts/2021-12-17-talisman.png)
 
@@ -64,7 +64,7 @@ We think it is time for a game: **Let's do a crowdsourced exploration of Solarpu
 
 Doing this exploration together is deeply in the sense of community and Web3: The Metaverse is an intermingling combination of tech and art, each inspiring the other.
 
-This can also help us make complex technical solutions understandable in a fun and light-hearted way. Instead of saying "[we built a protocol that prevents front-running and MEV on the protocol level](https://blog.mangata.finance/blog/2021-10-10-themis-protocol/)", why not just tell the story of the Cyberpunk-Robot-Thief-Princess Maeve using her robots to steal from people when they go shopping at the markets and the Solarpunk goddess Themis stopping her from doing so? 
+This can also help us make complex technical solutions understandable in a fun and light-hearted way. Instead of saying "[we built a protocol that prevents front-running and MEV on the protocol level](https://blog.mangata.finance/blog/2021-10-10-themis-protocol/){:target="\_blank"}", why not just tell the story of the Cyberpunk-Robot-Thief-Princess Maeve using her robots to steal from people when they go shopping at the markets and the Solarpunk goddess Themis stopping her from doing so? 
 
 Instead of rambling about gas prices for transactions being too high because of network congestions, why not just draw the streets on the Nation of Ethereum packed with cars and gas stations raising prices?
 
@@ -79,7 +79,7 @@ The ultimate goal is have a collection of sketches and artworks in our new Manga
 
 Our goal is to explore this space together and find new inspiration on how we at Mangata can explain complex concepts with simple emotions. Our thinking is that if we create a place where we can allow a collective of artists meet and create together, it will turbo-charge this creative process. 
 
-We provide all artists with the [Mangata Solarpunk Briefing](/assets/posts/Mangata_Solarpunk_Briefing.pdf) and a common [Solarpunk art discussion channel at the Mangata Discord](https://discord.gg/wTjd22gPWG). You are invited to create any piece of art you can think of: Backgrounds, Sets, Characters, Items... you name it! It can be 1D, 2D or 3D. It can be still or animated. You can exchange ideas, sketches and stories on Discord.
+We provide all artists with the [Mangata Solarpunk Briefing](/assets/posts/Mangata_Solarpunk_Briefing.pdf){:target="\_blank"} and a common [Solarpunk art discussion channel at the Mangata Discord](https://discord.gg/wTjd22gPWG){:target="\_blank"}. You are invited to create any piece of art you can think of: Backgrounds, Sets, Characters, Items... you name it! It can be 1D, 2D or 3D. It can be still or animated. You can exchange ideas, sketches and stories on Discord.
 
 **Let's explore where our collective imagination guides us!**
 
@@ -92,6 +92,6 @@ On 6th January we will close the submission form and start selecting submissions
 ## Ready to join the Mangata Solarpunk Exploration Challenge?
 
 - Read the Briefing
-- [Join the Discord](https://discord.com/invite/wTjd22gPWG)
-- Submit your art here: [Form](https://docs.google.com/forms/d/e/1FAIpQLSe8ZFnbvG_miL6P8OVRRi267cdGY96SnzZZ1yTX81sjr2d2Kw/viewform?usp=sf_link)
+- [Join the Discord](https://discord.com/invite/wTjd22gPWG){:target="\_blank"}
+- Submit your art here: [Form](https://docs.google.com/forms/d/e/1FAIpQLSe8ZFnbvG_miL6P8OVRRi267cdGY96SnzZZ1yTX81sjr2d2Kw/viewform?usp=sf_link){:target="\_blank"}
 - Use the #MangataSolarpunk Hashtag if you post it on Social Media
