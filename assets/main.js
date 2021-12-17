@@ -19,7 +19,7 @@ if (signup_button) {
     }
   
     // fetch with post method and email body
-    fetch('https://testnode.mangata.finance:3067', {
+    fetch('https://subscription.mangatafinance.cloud/', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
