@@ -60,22 +60,17 @@ function validateEmail(email) {
 
 // Header scroll interaction
 const header = document.getElementById('site-header')
-const headerCta = document.getElementById('header-cta')
-
-if (header) {
-  header.style.setProperty('--cta-width', headerCta ? `${headerCta.offsetWidth}px` : '120px')
-}
 
 const showCta = () => {
   if (!header) return
 
-  header.classList.add(['withCta'])
+  header.classList.add(['withBackground'])
 }
 
 const hideCta = () => {
   if (!header) return
 
-  header.classList.remove(['withCta'])
+  header.classList.remove(['withBackground'])
 }
 
 const handleScroll = () => {
