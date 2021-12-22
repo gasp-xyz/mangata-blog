@@ -5,7 +5,7 @@ date: 2021-12-21
 image: "2021-12-21-cover.jpg"
 author: "Mangata Team"
 author-image: "mangata-team.png"
-excerpt: "<p>In this post, we will be introducing our Kusama Parachain called Mangata X, talk about tokenomics, the crowdloan, the roadmap, our priorities and how you can become part of this community-owned and community-driven Parachain. If you want to join the waiting list right away, subscribe at x.mangata.finance.</p>"
+excerpt: "<p>In this post, we will be introducing our Kusama Parachain called Mangata X, talk about tokenomics, the crowdloan, the roadmap, our priorities and how you can become part of this community-owned and community-driven Parachain. If you want to join the waiting list right away, subscribe at <a href="https://x.mangata.finance" target="_blank">x.mangata.finance</a>.</p>"
 ---
 
 In this post, we will be introducing our Kusama Parachain called **Mangata X**, talk about tokenomics, the crowdloan, the roadmap, our priorities and how you can become part of this community-owned and community-driven Parachain. If you want to join the waiting list right away, subscribe at [x.mangata.finance](https://x.mangata.finance/){:target="\_blank"}.
@@ -20,11 +20,11 @@ Now that we have made our case, built our tech and bootstrapped our community, i
 
 **Mangata X** is a community-owned exchange on Kusama for experienced traders and experimental tokens.
 
-It is an Innovation Lab that fully embraces the spirit of Kusama: Innovation, Experimentation, Chaos. Mangata X will build bridges to Ethereum and other networks and open channels to Parachains to host tokens from the newest experimental Parachains and Protocols in the Kusama and Ethereum space.
+It is an Innovation Lab that fully embraces the spirit of Kusama: Innovation, Experimentation, Chaos. **Mangata X** will build bridges to Ethereum and other networks and open channels to Parachains to host tokens from the newest experimental Parachains and Protocols in the Kusama and Ethereum space.
 
-Mangata X will be for more experienced, forward-thinking and innovative users that are ready to take the risk, bridge capital between the ecosystems, create network effects and tame the chaos. It invites Traders, Liquidity Providers, Node Operators, Bot Creators and Governance Fans that want to build together and want to come together to be part of the most cutting edge technology that is available in the space today. 
+**Mangata X** will be for more experienced, forward-thinking and innovative users that are ready to take the risk, bridge capital between the ecosystems, create network effects and tame the chaos. It invites Traders, Liquidity Providers, Node Operators, Bot Creators and Governance Fans that want to build together and want to come together to be part of the most cutting edge technology that is available in the space today. 
 
-Mangata X will be community-driven. It is built with progressive dezentralization in mind from the beginning. More than 50% of the tokens in the hands of the community within 2.5 years. This means that we are inviting community members who want to be part of governance to join early, take the steering wheel and help us direct liquidity mining programmes, whitelist liquidity pairs for staking and decide on the future of Mangata X together.
+**Mangata X** will be community-driven. It is built with progressive dezentralization in mind from the beginning. More than 50% of the tokens in the hands of the community within 2.5 years. This means that we are inviting community members who want to be part of governance to join early, take the steering wheel and help us direct liquidity mining programmes, whitelist liquidity pairs for staking and decide on the future of **Mangata X** together.
 
 ## Mangata X Tokenomics
 
@@ -34,13 +34,13 @@ The ticker of the native token of **Mangata X** will be **$MGX**. It will have a
 
 ### Hard Capped & Infinite Rewards
 
-While Mangata X is hard capped, it still can offer infinite rewards due to algorithmic buy & burn. 0.05% of the every token swap is used to buy & burn MGX. This ensures that new rewards can be issued for securing the network via staking and providing liquidity forever while keeping MGX price stable and create trust for the DEX.
+While **Mangata X** is hard capped, it still can offer infinite rewards due to algorithmic buy & burn. 0.05% of the every token swap is used to buy & burn MGX. This ensures that new rewards can be issued for securing the network via staking and providing liquidity forever while keeping MGX price stable and create trust for the DEX.
 
 ### A diversified treasury & DEX-owned liquidity
 
-As the Treasury is earning 0.05% on every token swap, it will build a diversified portfolio of the most traded tokens. As Mangata X will be a major exchange between the Ethereum and Kusama networks, we expect a lot of blue chip tokens to accumulate in the Treasury.
+As the Treasury is earning 0.05% on every token swap, it will build a diversified portfolio of the most traded tokens. As **Mangata X** will be a major exchange between the Ethereum and Kusama networks, we expect a lot of blue chip tokens to accumulate in the Treasury.
 
-Mangata X is built to make it easy for the Treasury to aquire DEX-owned liquidity. This will lead to more capital efficiency through deeper pools and reduce volatility and risk for traders, adding further to the stability of the DEX.
+**Mangata X** is built to make it easy for the Treasury to aquire DEX-owned liquidity. This will lead to more capital efficiency through deeper pools and reduce volatility and risk for traders, adding further to the stability of the DEX.
 
 ### MGX creates a base layer of liquidity
 
