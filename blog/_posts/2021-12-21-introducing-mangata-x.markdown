@@ -5,7 +5,7 @@ date: 2021-12-21
 image: "2021-12-21-cover.jpg"
 author: "Mangata Team"
 author-image: "mangata-team.png"
-excerpt: "<p>In this post, we will be introducing our Kusama Parachain called Mangata X, talk about tokenomics, the crowdloan, the roadmap, our priorities and how you can become part of this community-owned and community-driven Parachain. If you want to join the waiting list right away, subscribe at [x.mangata.finance](https://x.mangata.finance/){:target="\_blank"}.</p>"
+excerpt: "<p>In this post, we will be introducing our Kusama Parachain called Mangata X, talk about tokenomics, the crowdloan, the roadmap, our priorities and how you can become part of this community-owned and community-driven Parachain. If you want to join the waiting list right away, subscribe at x.mangata.finance.</p>"
 ---
 
 In this post, we will be introducing our Kusama Parachain called **Mangata X**, talk about tokenomics, the crowdloan, the roadmap, our priorities and how you can become part of this community-owned and community-driven Parachain. If you want to join the waiting list right away, subscribe at [x.mangata.finance](https://x.mangata.finance/){:target="\_blank"}.
