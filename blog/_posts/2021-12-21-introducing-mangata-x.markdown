@@ -32,6 +32,8 @@ It is an Innovation Lab that fully embraces the spirit of Kusama: Innovation, Ex
 
 The ticker of the native token of **Mangata X** will be **$MGX**. It will have a total supply at the TGE of 1bn MGX. Rewards will be issued up to a capped supply of 4bn MGX, which will be reached earliest after 5 years. 80% of the final supply of tokens are reserved for the community. The Exchange Commission on trades is 0.3%, of which 0.2% go to liquidity providers, 0.05% to the Treasury and 0.05% are used for algorithmic buy & burn.
 
+![Mangata X Tokenomics](/assets/posts/2021-12-21-mangata-x-tokenomics.png)
+
 ### Hard Capped & Infinite Rewards
 
 While **Mangata X** is hard capped, it still can offer infinite rewards due to algorithmic buy & burn. 0.05% of the every token swap is used to buy & burn MGX. This ensures that new rewards can be issued for securing the network via staking and providing liquidity forever while keeping MGX price stable and create trust for the DEX.
