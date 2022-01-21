@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "The Mangata Playbook - Part 1: Begin with the End in Mind"
-date: 2021-12-21
+date: 2022-01-21
 image: "2022-01-21-the-mangata-playbook-part-1-cover.png"
 author: "Mangata Team"
 author-image: "mangata-team.png"
-excerpt: "<p>This article kicks off the 4-part series "The Mangata Playbook", which will serve our community as the definitive guide on what Mangata is and how we will create the most capital efficient and fair DEX in crypto.</p>"
+excerpt: "<p>This article kicks off the 4-part series 'The Mangata Playbook', which will serve our community as the definitive guide on what Mangata is and how we will create the most capital efficient and fair DEX in crypto.</p>"
 ---
 
 Fellow Pioneers,
