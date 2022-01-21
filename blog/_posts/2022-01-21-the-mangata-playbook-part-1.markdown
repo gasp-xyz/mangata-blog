@@ -66,8 +66,6 @@ Sadly, what once worked is no longer a guaranteed way to success. More often tha
 
 ![An image of a token price from a struggling DEX](/assets/posts/2022-01-21-struggling-dex.png)
 
-The Struggling DEX Playbook playing out
-
 Great rewards come with great responsibilities. Token devaluation from high emissions, the struggle to keep liquidity when incentives are dropping and questions on the fundamental value of a DEX token can damage the image of even honest teams and put the future of their project at risk.
 
 To make things worse for honest projects, a neverending stream of low-effort Uniswap forks are popping up every week that are running **the Scam DEX playbook** themselves:
@@ -94,7 +92,7 @@ This chapter will show you our gameplan. Very briefly, it is:
     - Strong Tokenomics
     - Strong Network
 
-Let’s begin with something obvious: No one needs a new DEX... **IF** it does not add any value to DeFi. There are already enough DEXes. Forking the same codebase with the same roadmap and the same marketing tactics that we already have seen dozens of times? No. That’s not the way to go! Instead, we do what needs to be done and add value.
+Let’s begin with something obvious: No one needs a new DEX... **If** it does not add any value to DeFi. There are already enough DEXes. Forking the same codebase with the same roadmap and the same marketing tactics that we already have seen dozens of times? No. That’s not the way to go! Instead, we do what needs to be done and add value.
 
 So where do we add value? By fixing the biggest issue in DeFi, the holy grail: **Capital Efficiency**. Paying less to get more. We believe the endgame of DeFi will be decided on this metric.
 
@@ -152,6 +150,6 @@ We want to solve the big challenges of DeFi and this requires that we gather big
 
 We invite you to be part of the journey... be a Mangata Pioneer and let’s be there together when we begin to venture into DeFi 3.0 and beyond.
 
-![May the Airwhale bless you with infinite rewards!](/assets/posts/2022-01-21-airwhale.jpg)
+![May the Airwhale bless you with infinite rewards!](/assets/posts/airwhale.jpg)
 
 May the Airwhale bless you with infinite rewards!
