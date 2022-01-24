@@ -144,7 +144,7 @@ In Part 4 of the Mangata Playbook, we show your our initial concept on the Netwo
 
 ## Conclusion
 
-We believe that that success comes when you begin with the end in mind. What will be your Endgame and what is the Way you chose to get there? Too many projects focus on only one of those three factors: Valud-adding technology, rewarding tokenomics and a networking strategy. But only when you consider all of them can your project be successful in the competative environment that crypto is becoming. 
+We believe that that success comes when you begin with the end in mind. What will be your Endgame and what is the Way you chose to get there? Too many projects focus on only one of those three factors: Value-adding technology, rewarding tokenomics and a networking strategy. But only when you consider all of them can your project be successful in the competative environment that crypto is becoming. 
 
 We want to solve the big challenges of DeFi and this requires that we gather big minds who solve the challenges that we are presented with together. 
 
