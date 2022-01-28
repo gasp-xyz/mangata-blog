@@ -22,6 +22,10 @@ To make it easier, we have decided to write the definitive guide on what Mangata
 
 The Mangata Playbook will start as a 4-part series of blog posts and later become part of the core docs. We hope it helps you understand the revolution we are building. If you have any questions, hop into Discord and have a chat with us!
 
+Watch the video to this article:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/evvkDqQ3EQk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## DeFi is broken
 
 It has been broken before it was even built. Ethereum was launched in 2014. Back then, transactions were not designed to be private or cheap. They were designed to just work. The consequences are hurting us today:
