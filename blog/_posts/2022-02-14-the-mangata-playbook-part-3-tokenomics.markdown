@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Mangata Playbook - Part 3: Tokenomics"
-date: 2022-01-21
+date: 2022-02-14
 image: "2022-02-14-the-mangata-playbook-part-3-cover.png"
 author: "Mangata Team"
 author-image: "mangata-team.png"
