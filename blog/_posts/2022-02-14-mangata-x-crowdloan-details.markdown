@@ -2,7 +2,7 @@
 layout: post
 title: "Mangata X - Crowdloan Details"
 date: 2022-02-14
-image: "2022-02-14-the-mangata-x-crowdloan-details.png"
+image: "2022-02-14-mangata-x-crowdloan-details.png"
 author: "Mangata Team"
 author-image: "mangata-team.png"
 excerpt: "<p>The Mangata X crowdloan is coming closer and closer. Following our Mangata X Announcement, one of the most common questions was around Tokenomics and details on the Crowdloan. After we have released an in-depth article on Mangat X Tokenomics, we now proceed to share details on the upcoming crowdloan. As is common, we will bid for a full slot period of 48 weeks.</p>"
