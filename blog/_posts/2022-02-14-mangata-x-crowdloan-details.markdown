@@ -42,7 +42,7 @@ We took a Discord snapshot of existing Mangatarians and will be applying filters
 
 ## Forward and upward: The Crowdloan Timeline
 
-Our Crowdloan starts on Monday, 21st February, 2pm UTC. We will start bidding immediately. The Slot Auction will run 5 weeks and each week the highest bidder wins a slot. We are taking a relaxed stance and are ready to onboard whenever we the market is.
+Our Crowdloan starts on Monday, 21st February, 2pm UTC. We will start bidding immediately. The Slot Auction will run 5 weeks and each week the highest bidder wins a slot. We are taking a relaxed stance and are ready to onboard whenever the market is.
 
 A word of caution: While previous Slot Auctions closed below 14,000 KSM, we don't know what the actual interest in the crowdloan will be like. This can mean that the cap will not be reached. But if it is reached, no further contributions will be possible. The Crowdloan works in a trustless manner and we cannot change it after we have initiated it. We want to see all of you get the allocation you wish for. So please make sure to participate in a timely manner. 
 
