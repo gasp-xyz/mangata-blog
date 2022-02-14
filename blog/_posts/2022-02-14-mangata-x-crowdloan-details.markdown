@@ -15,7 +15,7 @@ After we have released an [in-depth article on Mangat X Tokenomics](https://blog
 ## The reward pool
 Our Tokenomics are offering 8.25% of the final supply as Crowdloan rewards. Our goal is to become a self-funded parachain within 4 years by growing the Mangata X treasury and accumulating enough KSM to become stable long-term. To match those plans, we offer a declining share of the final supply of 3.5%, 2.5%, 1.5% and 0.75% for the 4 upcoming Crowdloans.
 
-This means that the **first Crowdloan will award 140,000,000 MGX as rewards**. This equals 10% of the circulating cupply after a year.
+This means that the **first Crowdloan will award 140,000,000 MGX as rewards**. This equals 10% of the circulating supply after a year.
 
 Emission Schedule: Out of those 140m MGX, **30m MGX (~21%) will be minted and made available at TGE**. The remaining 110m MGX will be vested over the remainder of the slot duration. It will be minted and become claimable every epoch.
 
