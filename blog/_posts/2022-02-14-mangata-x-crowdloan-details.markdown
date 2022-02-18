@@ -12,6 +12,11 @@ The Mangata X crowdloan is coming closer and closer. Following our [Mangata X An
 
 After we have released an [in-depth article on Mangat X Tokenomics](https://blog.mangata.finance/blog/2022-02-13-the-mangata-playbook-part-3-tokenomics/){:target="\_blank"}, we now proceed to share details on the upcoming crowdloan. As is common, we will bid for a full slot period of 48 weeks.
 
+## What is a Crowdloan?
+To launch Mangata X into the Kusama ecosystem, it needs to run on a Parachain. Only 100 Parachain slots exist on Ethereum. That is why Parachain slots are auctioned off to win a slot lease. To win an auction, competing Parachains bid with KSM. The highest KSM bid of the winning Parachain gets bonded (locked) for the slot lease duration. The bonded KSM is released after the end of the lease period.
+
+To fund the slot lease, projects can perform crowdloans. A crowdloan is a trustless mechanism for the community to participate in a slot auction and support their project. The community can bond KSM to support the crowdloan. In return, the community will get an airdrop of the parachain's native tokens. This is generally considered to be rather risk-free, as the only risk that applies is Kusama protocol risk. The KSM is returned either after the successful conclusion of the lease period (about 48 weeks) or after the failed crowdloan period. (about 5 weeks)
+
 ## The reward pool
 Our Tokenomics are offering 8.25% of the final supply as Crowdloan rewards. Our goal is to become a self-funded parachain within 4 years by growing the Mangata X treasury and accumulating enough KSM to become stable long-term. To match those plans, we offer a declining share of the final supply of 3.5%, 2.5%, 1.5% and 0.75% for the 4 upcoming Crowdloans.
 
