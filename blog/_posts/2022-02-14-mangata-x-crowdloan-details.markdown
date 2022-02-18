@@ -8,9 +8,9 @@ author-image: "mangata-team.png"
 excerpt: "<p>The Mangata X crowdloan is coming closer and closer. Following our Mangata X Announcement, one of the most common questions was around Tokenomics and details on the Crowdloan. After we have released an in-depth article on Mangat X Tokenomics, we now proceed to share details on the upcoming crowdloan. As is common, we will bid for a full slot period of 48 weeks.</p>"
 ---
 
-The Mangata X crowdloan is coming closer and closer. Following our [Mangata X Announcement](https://blog.mangata.finance/blog/2021-12-21-introducing-mangata-x/), one of the most common questions was around Tokenomics and details on the Crowdloan.
+The Mangata X crowdloan is coming closer and closer. Following our [Mangata X Announcement](https://blog.mangata.finance/blog/2021-12-21-introducing-mangata-x/{:target="\_blank"}), one of the most common questions was around Tokenomics and details on the Crowdloan.
 
-After we have released an [in-depth article on Mangat X Tokenomics](https://blog.mangata.finance/blog/2022-02-13-the-mangata-playbook-part-3-tokenomics/), we now proceed to share details on the upcoming crowdloan. As is common, we will bid for a full slot period of 48 weeks.
+After we have released an [in-depth article on Mangat X Tokenomics](https://blog.mangata.finance/blog/2022-02-13-the-mangata-playbook-part-3-tokenomics/){:target="\_blank"}, we now proceed to share details on the upcoming crowdloan. As is common, we will bid for a full slot period of 48 weeks.
 
 ## The reward pool
 Our Tokenomics are offering 8.25% of the final supply as Crowdloan rewards. Our goal is to become a self-funded parachain within 4 years by growing the Mangata X treasury and accumulating enough KSM to become stable long-term. To match those plans, we offer a declining share of the final supply of 3.5%, 2.5%, 1.5% and 0.75% for the 4 upcoming Crowdloans.
