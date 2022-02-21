@@ -8,7 +8,9 @@ author-image: "mangata-team.png"
 excerpt: "<p>The Mangata X crowdloan is coming closer and closer. Following our Mangata X Announcement, one of the most common questions was around Tokenomics and details on the Crowdloan. After we have released an in-depth article on Mangat X Tokenomics, we now proceed to share details on the upcoming crowdloan. As is common, we will bid for a full slot period of 48 weeks.</p>"
 ---
 
-The Mangata X crowdloan is coming closer and closer. Following our [Mangata X Announcement](https://blog.mangata.finance/blog/2021-12-21-introducing-mangata-x/{:target="\_blank"}), one of the most common questions was around Tokenomics and details on the Crowdloan.
+*Update: To get updated on the Crowdloan, please also read our [Crowdloan Details](https://blog.mangata.finance/blog/2022-02-14-mangata-x-crowdloan-details/){:target="\_blank"} article as well as the [Crowdloan Bonus](https://blog.mangata.finance/blog/2022-02-18-mangata-x-crowdloan-bonuses/){:target="\_blank"} article and the [FAQ](https://mangata-finance.notion.site/FAQ-1633a2a816e646f09aa226fe691ee06c){:target="\_blank"}*
+
+The Mangata X crowdloan is coming closer and closer. Following our [Mangata X Announcement](https://blog.mangata.finance/blog/2021-12-21-introducing-mangata-x/){:target="\_blank"}, one of the most common questions was around Tokenomics and details on the Crowdloan.
 
 After we have released an [in-depth article on Mangat X Tokenomics](https://blog.mangata.finance/blog/2022-02-13-the-mangata-playbook-part-3-tokenomics/){:target="\_blank"}, we now proceed to share details on the upcoming crowdloan. As is common, we will bid for a full slot period of 48 weeks.
 
