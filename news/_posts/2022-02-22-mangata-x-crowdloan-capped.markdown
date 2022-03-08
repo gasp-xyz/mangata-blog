@@ -16,7 +16,7 @@ Mangata X, an easy and secure DEX to trade all Kusama and Ethereum assets, broke
 
 Mangata X is on track to win a parachain slot in the Kusama ecosystem and will likely launch its mainnet on 4th April 2022. Gleb Urvanov, CTO and co-founder: “We are getting ready to launch! Mangata X is a next-generation DEX that offers a No Gas Economy, MEV-prevention and our revolutionary Proof-of-Liquidity mechanism.”
 
-The Roadmap for the coming weeks is already set: After initial upgrades and audits the project will open its bridges, perform an IDO on its own platform and start trading shortly.
+The Roadmap for the coming weeks is already set: After initial upgrades and audits the project will open its bridges, perform the first liquidity bootstrapping on its own platform and start trading shortly.
 
 **Links:**
 - Mangata X Landing Page: [x.mangata.finance](http://x.mangata.finance)
