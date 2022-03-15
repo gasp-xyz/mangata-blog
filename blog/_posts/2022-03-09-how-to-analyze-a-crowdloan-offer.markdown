@@ -44,9 +44,9 @@ You basically only need three simple equations for this category:
 
 *[For better readability you can multiply the results times 10.000 to get a more readable result]*
 
-For example, the well beloved $MOVR crowdloan that everyone touts as the best only scores 38.41 out of 100 possible points. Although a high crowdloan allocation in the tokenomics were offered, Moonriver couldn’t introduce a low KSM hard cap because of the competitiveness of the earlier Parachain slots, which meant the token ownership per $KSM got heavily diluted. A rating of 38.41 points translates into rewards of 0.259% of all project tokens after 1 year per 1000 KSM 
+For example, the well beloved $MOVR crowdloan that everyone touts as the best only scores 38.41 out of 100 possible points. Although a high crowdloan allocation in the tokenomics were offered, Moonriver couldn’t introduce a low KSM hard cap because of the competitiveness of the earlier Parachain slots, which meant the token ownership per $KSM got heavily diluted. A rating of 38.41 points translates into rewards of 0.259% of all project tokens after 1 year per 1000 KSM.
 
-Let’s compare this against the record breaking Mangata X crowdloan. Mangata X was in the comfortable situation of setting a really low KSM hard cap. This meant that contributors got 0.66% of all project tokens at TGE per 1000 KSM contributed in the crowdloan. With such a high allocation Mangata X sits comfortably at the top of the crowdloan rating with a score of 100 points.
+Let’s compare this against the record breaking Mangata X crowdloan. Mangata X was in the comfortable situation of setting a really low KSM hard cap. This meant that contributors got 0.66% of all project tokens after 1 year per 1000 KSM contributed in the crowdloan. With such a high allocation Mangata X sits comfortably at the top of the crowdloan rating with a score of 100 points.
 
 *[Note: The highest rated project always gets 100 points and every other project will get compared against it.]*
 
