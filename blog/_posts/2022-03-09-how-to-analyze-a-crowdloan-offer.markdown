@@ -3,7 +3,7 @@ layout: post
 title: "How to Analyze a Crowdloan offer"
 date: 2022-03-08
 image: "2022-03-09-how-to-analyze-a-crowdloan-offer.png"
-author: "Crane"
+author: "Mangata Team"
 author-image: "crane.jpg"
 excerpt: "<p>Crane is a Dotsama community member who analyzes the Crowdloan offerings of different Parachains. He recently wrote a review of Mangata X that put our crowdloan & tokenomics in a very good spot. We asked Crane to share his method with us and he agreed to write this guest article. We also invited him to Mangata Monday and will link to the recording in the beginning of the article.</p>"
 ---
