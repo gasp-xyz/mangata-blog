@@ -5,7 +5,7 @@ date: 2022-03-22
 image: "2022-03-22-mangata-finance-partners-with-oak-network.jpeg"
 author: "Mangata Team"
 author-image: "mangata-team.png"
-excerpt: "<p></p>"
+excerpt: "<p>OAK is an upcoming automation parachain that will bring a much needed piece to Dotsama: trustless cross-chain workflow automation. This partnership opes new possibilities for DeFi like dollar cost averaging, ice berg orders, execution of strategies based on price and time and much much more! Together we will be forming an open ecosystem of yield opportunities.</p>"
 ---
 Automating Yield: Mangata Finance partners with OAK Network.
 
