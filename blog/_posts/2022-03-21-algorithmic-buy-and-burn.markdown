@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Algorithmic Buy & Burn - A novel mechanism to correlate token price with success of the protocol"
+title: "Algorithmic Buy & Burn - A novel mechanism to connect token price with success of the protocol"
 date: 2022-03-21
 image: "2022-03-21-algorithmic-buy-and-burn.png"
 author: "Mangata Team"
 author-image: "mangata-team.png"
-excerpt: "<p>Algorithmic buy & burn is a novel mechanism that enables a crypto project to maintain a capped supply while at the same time continuously minting new rewards for services like liquidity provision and block creation. As a bonus for token holders, it positively correlates the success and activity of the network with token price appreciation.</p><p>In this article, we show the motivation behind the mechanism, explain the exact mechanism, describe the positive effects for the ecosystem and MGX holders and show projections about the expected outcomes.</p>"
+excerpt: "<p>Algorithmic buy & burn is a novel mechanism that enables a crypto project to maintain a capped supply while at the same time continuously minting new rewards for services like liquidity provision and block creation. As a bonus for token holders, it positively connects the success and activity of the network with token price appreciation.</p><p>In this article, we show the motivation behind the mechanism, explain the exact mechanism, describe the positive effects for the ecosystem and MGX holders and show projections about the expected outcomes.</p>"
 ---
-Algorithmic buy & burn is a novel mechanism that enables a crypto project to maintain a capped supply while at the same time continuously minting new rewards for services like liquidity provision and block creation. As a bonus for token holders, it positively correlates the success and activity of the network with token price appreciation.
+Algorithmic buy & burn is a novel mechanism that enables a crypto project to maintain a capped supply while at the same time continuously minting new rewards for services like liquidity provision and block creation. As a bonus for token holders, it positively connects the success and activity of the network with token price appreciation.
 
 In this article, we show the motivation behind the mechanism, explain the exact mechanism, describe the positive effects for the ecosystem and MGX holders and show projections about the expected outcomes.
 
