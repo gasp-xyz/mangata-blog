@@ -32,6 +32,8 @@ We invite you to be part of the journey and join our conversations in the open. 
 - [The Mangata Finance team on Twitter](https://twitter.com/i/lists/1478673125499887623){:target="\_blank"}
 - [The OAK Network team on Twitter](https://twitter.com/i/lists/1506308915872645133){:target="\_blank"}
 
+Also worth reading: [OAK's partnership announcement with Mangata](https://medium.com/oak-blockchain/oak-network-announces-partnership-with-mangata-2122727bad57)
+
 This is an exciting time for #Dotsama and it is great to have OAK Network as a strategic partner.
 
 ## About OAK Network
