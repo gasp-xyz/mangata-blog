@@ -21,6 +21,8 @@ This post explains how to claim your bonus. If you have any questions, please as
 ## Claim the 30% DEX bonus
 You are eligible for the 30% DEX bonus if you contributed to the Mangata X crowdloan and your address is listed in one of the sheets of [this document](https://docs.google.com/spreadsheets/d/1fgUaiTQrTPtxx8nYPOvKygWr7_zKElNR0xdW_tDBpas/edit?usp=sharing){:target="\_blank"}. KAR and BNC addresses will be accounted automatically. If you are only eligible with a MOVR address, you need to link this address to the KSM account you contributed to the Mangata X crowdloan with to claim your 30% bonus.
 
+Please consider that you need to have an eligible MOVR **and** KSM address to claim this reward.
+
 To claim the 30% bonus, visit [rewards.mangata.finance](https://rewards.mangata.finance/){:target="\_blank"} and follow these steps:
 1. Connect your MOVR address via Metamask
 2. Connect your KSM address via Polkadot.js or Talisman
