@@ -8,7 +8,7 @@ author-image: "mangata-team.png"
 excerpt: "If you have participated in the Mangata X crowdloan AND you are eligible for a bonus, you should now claim your bonus. The linking period will last until 13th April 2022. This post explains how to claim your bonus."
 ---
 
-**READERS BEWARE: This post only applies to you if you participated in the crowdloan AND are eligible for a bonus. Please read every sentence of the introductory paragraph carefully.**
+**READERS BEWARE:** This post only applies to you if you participated in the crowdloan **AND** are eligible for a bonus. Please read every sentence of the introductory paragraph carefully.
 
 Pioneers,
 
@@ -18,7 +18,7 @@ Ahead of the Mangata X Crowdloan we released details on the [30% DEX and 50% Com
 
 If you are eligible for the 30% DEX bonus via your BNC or KAR address, you don't need to claim it. It will be automatically accounted. Keep in mind that only the bigger bonus counts, so if you are eligible for the 50% and 30% bonus, you only need to claim the 50% bonus.
 
-This post explains how to claim your bonus. If you have any questions, please ask them in our [Mangata Discord](https://discord.gg/mangata){:target="\_blank"} *#crowdloan* channel.
+This post explains how to claim your bonus. If you have contributed to the crowdloan but are not eligible for a bonus, you don't need to read this article. You will receive your base reward as outlined in the [Mangata X Crowdloan Details](https://blog.mangata.finance/blog/2022-02-14-mangata-x-crowdloan-details/){:target="\_blank"} article. If you have any questions, please ask them in our [Mangata Discord](https://discord.gg/mangata){:target="\_blank"} *#crowdloan* channel.
 
 ## Claim the 30% DEX bonus
 You are eligible for the 30% DEX bonus if you contributed to the Mangata X crowdloan and your address is listed in one of the sheets of [this document](https://docs.google.com/spreadsheets/d/1fgUaiTQrTPtxx8nYPOvKygWr7_zKElNR0xdW_tDBpas/edit?usp=sharing){:target="\_blank"}. KAR and BNC addresses will be accounted automatically. If you are only eligible with a MOVR address, you need to link this address to the KSM account you contributed to the Mangata X crowdloan with to claim your 30% bonus.
