@@ -8,9 +8,11 @@ author-image: "mangata-team.png"
 excerpt: "If you have participated in the Mangata X crowdloan AND you are eligible for a bonus, you should now claim your bonus. The linking period will last until 13th April 2022. This post explains how to claim your bonus."
 ---
 
+READERS BEWARE: This post only applies to you if you participated in the crowdloan AND are eligible for a bonus. Please read every sentence of the introductory paragraph carefully.
+
 Pioneers,
 
-Ahead of the Mangata X Crowdloan we released details on the [30% DEX and 50% Community bonuses](https://blog.mangata.finance/blog/2022-02-18-mangata-x-crowdloan-bonuses/){:target="\_blank"}. We are now opening the linking period. The linking period will last 2 weeks: From 30th March 2022 until 13th April 2022 6am UTC. If you have participated in the Mangata X crowdloan AND you are eligible for a bonus, **you should now claim your bonus** if you fall under one of those categories:
+Ahead of the Mangata X Crowdloan we released details on the [30% DEX and 50% Community bonuses](https://blog.mangata.finance/blog/2022-02-18-mangata-x-crowdloan-bonuses/){:target="\_blank"}. We are now opening the linking period for these bonuses. The linking period will last 2 weeks: From 30th March 2022 until 13th April 2022 6am UTC. If you have participated in the Mangata X crowdloan AND you are eligible for a bonus, **you should now claim your bonus** if you fall under one of those categories:
 - If you are eligible for the 50% Discord community bonus
 - If you are eligible for the 30% DEX bonus AND are so only with a MOVR address
 
