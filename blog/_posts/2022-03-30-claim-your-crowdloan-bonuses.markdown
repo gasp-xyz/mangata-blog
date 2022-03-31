@@ -8,7 +8,7 @@ author-image: "mangata-team.png"
 excerpt: "If you have participated in the Mangata X crowdloan AND you are eligible for a bonus, you should now claim your bonus. The linking period will last until 13th April 2022. This post explains how to claim your bonus."
 ---
 
-READERS BEWARE: This post only applies to you if you participated in the crowdloan AND are eligible for a bonus. Please read every sentence of the introductory paragraph carefully.
+**READERS BEWARE: This post only applies to you if you participated in the crowdloan AND are eligible for a bonus. Please read every sentence of the introductory paragraph carefully.**
 
 Pioneers,
 
