@@ -12,6 +12,8 @@ Mangatarians,
 
 As was announced in the [Mangata X - Crowdloan Details](https://blog.mangata.finance/blog/2022-02-14-mangata-x-crowdloan-details/){:target="\_blank"} post, there will be a 30% DEX bonus and a 50% Community bonus given out on top of the 6,250 MGX base reward for participation in the Mangata X Crowdloan. (non-stacking, higher one wins)
 
+We took a snapshot of all activity until 14th February 2022 and are using these snapshots to compare eligible accounts against.
+
 In this blog post, we give you the details and lay out the roadmap for the crowdloan. If you have any questions, please make sure to read the full post, as well as the [Crowdloan Details](https://blog.mangata.finance/blog/2022-02-14-mangata-x-crowdloan-details/){:target="\_blank"} and [FAQ](https://mangata-finance.notion.site/FAQ-1633a2a816e646f09aa226fe691ee06c){:target="\_blank"}. Most of them are already answered. If your question is still open, head over to the Mangata Discord *#crowdloan* channel to get it answered.
 
 If you want to stay in the loop regarding any updates and breaking news, we will always publish new information on the [Mangata X Newsletter](https://x.mangata.finance/){:target="\_blank"}, in the [Mangata Discord](https://discord.gg/mangata){:target="\_blank"} *#announcements* channel and on Twitter: [@MangataFinance](https://twitter.com/MangataFinance){:target="\_blank"}
