@@ -5,7 +5,7 @@ date: 2022-04-04
 image: "2022-04-04-liquidity-bootstrapping-event.png"
 author: "Mangata Team"
 author-image: "mangata-team.png"
-excerpt: ""
+excerpt: "To discover the initial price of MGX and make sure there is a stable price and sufficient liquidity in the very first MGX-based liquidity pool, we are holding an MGX-KSM liquidity bootstrapping event. The event will offer an exclusive phase where whitelisted community members ONLY can can contribute, followed by a public phase. This article explains the liquidity bootstrapping event and whitelisting process. EVERYONE who wants to be whitelisted for the bootstrap needs to participate in the whitelisting process! The whitelisting ends on 19th April 6am UTC."
 ---
 
 To discover the initial price of MGX and make sure there is a stable price and sufficient liquidity in the very first MGX-based liquidity pool, we are holding an MGX-KSM liquidity bootstrapping event. The event will offer an exclusive phase where whitelisted community members ONLY can can contribute, followed by a public phase. This article explains the liquidity bootstrapping event and whitelisting process.
@@ -15,7 +15,6 @@ EVERYONE who wants to be whitelisted for the bootstrap needs to participate in t
 ## How does the Liquidity Bootstrapping Event work?
 
 <iframe width="720" height="405" src="https://www.youtube.com/embed/oFOPX4UDGiI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 We have 3 Goals for the bootstrap:
 1. Bootstrap the very first MGX-based liquidity pool
@@ -41,6 +40,8 @@ We will be giving one weeks notice for KSM users to unstake their KSM.
 
 ## How does the whitelisting work?
 
+<iframe width="720" height="405" src="https://www.youtube.com/embed/nzMkD97GfcM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 There will be 2 phases during the bootstrap:
 - The whitelist phase
 - The public phase
@@ -51,6 +52,9 @@ To get whitelisted, follow these steps:
 1. [Join the Mangata Discord](https://discord.gg/mangata){:target="\_blank"}
 2. Visit the *#whitelist* channel and follow the instructions
 3. You will be asked to send a direct message to our bot and communicate the KSM address for which you like to get whitelisted.
+
+## FAQ
+You can always find the latest updates in the [FAQ: Liquidity Bootstrapping](https://mangata-finance.notion.site/FAQ-Liquidity-Bootstrapping-6cec4f3d384a40bba7892697c8dfdc9b){:target="\_blank"} article.
 
 ## Make sure to stay in the loop!
 1. Join the **Mangata X** Newsletter at [x.mangata.finance](https://x.mangata.finance/){:target="\_blank"}
