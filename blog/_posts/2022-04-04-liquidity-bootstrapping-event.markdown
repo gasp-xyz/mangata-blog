@@ -5,10 +5,10 @@ date: 2022-04-04
 image: "2022-04-04-liquidity-bootstrapping-event.png"
 author: "Mangata Team"
 author-image: "mangata-team.png"
-excerpt: "To discover the initial price of MGX and make sure there is a stable price and sufficient liquidity in the very first MGX-based liquidity pool, we are holding an MGX-KSM liquidity bootstrapping event. The event will offer an exclusive phase where whitelisted community members ONLY can can contribute, followed by a public phase. This article explains the liquidity bootstrapping event and whitelisting process. EVERYONE who wants to be whitelisted for the bootstrap needs to participate in the whitelisting process! The whitelisting ends on 19th April 6am UTC."
+excerpt: "To discover the initial price of MGX and make sure there is a stable price and sufficient liquidity in the very first MGX-based liquidity pool, we are holding an MGX-KSM liquidity bootstrapping event. The event will offer an exclusive phase where whitelisted community members ONLY can contribute, followed by a public phase. This article explains the liquidity bootstrapping event and whitelisting process. EVERYONE who wants to be whitelisted for the bootstrap needs to participate in the whitelisting process! The whitelisting ends on 19th April 6am UTC."
 ---
 
-To discover the initial price of MGX and make sure there is a stable price and sufficient liquidity in the very first MGX-based liquidity pool, we are holding an MGX-KSM liquidity bootstrapping event. The event will offer an exclusive phase where whitelisted community members ONLY can can contribute, followed by a public phase. This article explains the liquidity bootstrapping event and whitelisting process.
+To discover the initial price of MGX and make sure there is a stable price and sufficient liquidity in the very first MGX-based liquidity pool, we are holding an MGX-KSM liquidity bootstrapping event. The event will offer an exclusive phase where whitelisted community members ONLY can contribute, followed by a public phase. This article explains the liquidity bootstrapping event and whitelisting process.
 
 EVERYONE who wants to be whitelisted for the bootstrap needs to participate in the whitelisting process! The whitelisting ends on 19th April 6am UTC.
 
