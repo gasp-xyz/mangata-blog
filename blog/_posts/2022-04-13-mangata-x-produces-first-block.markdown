@@ -5,7 +5,7 @@ date: 2022-04-13
 image: "mangata-x-launch.png"
 author: "Mangata Team"
 author-image: "mangata-team.png"
-excerpt: ""
+excerpt: "After 1.5 years of hard work, Mangata X has onboarded to Kusama as Parachain 2110! Mangata X produced block number 1 on 2022-04-12 14:38 UTC. To celebrate the day, we want to use the opportunity to reflect on the current challenges of crypto and DeFi, share our thoughts on Web3, DeFi 3.0 & Generation 3 blockchains in Kusummer 2022 and share our ambitions for Mangata."
 ---
 
 After 1.5 years of hard work, **Mangata X has onboarded to Kusama** as Parachain 2110! Mangata X produced [block #1](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fprod-kusama-collator-01.mangatafinance.cloud%2F#/explorer/query/0x1e629f858f0fe60d95376f63197574bcb1d3fa72d39172ba898d42d2e6896e97){:target="\_blank"} on 2022-04-12 14:38 UTC. To celebrate the day, we want to use the opportunity to reflect on the current challenges of crypto and DeFi, share our thoughts on Web3, DeFi 3.0 & Generation 3 blockchains in Kusummer 2022 and share our ambitions for Mangata.
