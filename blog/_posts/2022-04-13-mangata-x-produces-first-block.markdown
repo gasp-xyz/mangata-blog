@@ -5,10 +5,10 @@ date: 2022-04-13
 image: "mangata-x-launch.png"
 author: "Mangata Team"
 author-image: "mangata-team.png"
-excerpt: "After 1.5 years of hard work, Mangata X has onboarded to Kusama as Parachain 2110! Mangata X produced block number 1 on 2022-04-12 14:38 UTC. To celebrate the day, we want to use the opportunity to reflect on the current challenges of crypto and DeFi, share our thoughts on Web3, DeFi 3.0 & Generation 3 blockchains in Kusummer 2022 and share our ambitions for Mangata."
+excerpt: "After 1.5 years of hard work, Mangata X has onboarded to Kusama as Parachain 2110! Mangata X produced block number 1 on 2022-04-12 14:38 UTC. To celebrate the day, we want to use the opportunity to reflect on the current challenges of crypto and DeFi, share our thoughts on Web3, DeFi 3.0 & Generation 3 blockchains in Kusummer '22 and share our ambitions for Mangata."
 ---
 
-After 1.5 years of hard work, **Mangata X has onboarded to Kusama** as Parachain 2110! Mangata X produced [block #1](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fprod-kusama-collator-01.mangatafinance.cloud%2F#/explorer/query/0x1e629f858f0fe60d95376f63197574bcb1d3fa72d39172ba898d42d2e6896e97){:target="\_blank"} on 2022-04-12 14:38 UTC. To celebrate the day, we want to use the opportunity to reflect on the current challenges of crypto and DeFi, share our thoughts on Web3, DeFi 3.0 & Generation 3 blockchains in Kusummer 2022 and share our ambitions for Mangata.
+After 1.5 years of hard work, **Mangata X has onboarded to Kusama** as Parachain 2110! Mangata X produced [block #1](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fprod-kusama-collator-01.mangatafinance.cloud%2F#/explorer/query/0x1e629f858f0fe60d95376f63197574bcb1d3fa72d39172ba898d42d2e6896e97){:target="\_blank"} on 2022-04-12 14:38 UTC. To celebrate the day, we want to use the opportunity to reflect on the current challenges of crypto and DeFi, share our thoughts on Web3, DeFi 3.0 & Generation 3 blockchains in Kusummer '22 and share our ambitions for Mangata.
 
 ## The battle for decentralization
 DeFi has come a long way. It is still only at the beginning. And the battle for decentralization is still in full swing.
@@ -43,7 +43,7 @@ We see Kusama as the innovation network for Polkadot. Wherever Polkadot goes, Ku
 
 ![a network graph of current channels](/assets/posts/2022-04-13-channels.png)
 
-We see 4 main ingredients that form the recipe of Kusummer 2022 fueling up:
+We see 4 main ingredients that form the recipe of Kusummer '22 fueling up:
 
 - XCMv3 rolling out
 - [Parachains finally starting to open more and more channels each week](https://dotsama-channels.vercel.app/#/){:target="\_blank"}
@@ -106,7 +106,7 @@ We are asked when we will be launching on Polkadot. We will go there once we the
 
 As more and more development teams start building on top of Substrate and enter the DeFi space of Dotsama, we think the ecosystem can flourish best when we architect it as an open ecosystem of yield opportunities. We believe that every parachain should strive to be as open to other parachains as possible and expose its interfaces in the most trustless way possible.
 
-We think that bridges and channels, a focus on great user experience and automation will be the key drivers that will bring the success that Dotsama deserves and start Kusummer 2022.
+We think that bridges and channels, a focus on great user experience and automation will be the key drivers that will bring the success that Dotsama deserves and start Kusummer '22.
 
  
 ## Make sure to stay in the loop!
