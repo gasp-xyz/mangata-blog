@@ -11,6 +11,9 @@ Algorithmic buy & burn is a novel mechanism that enables a crypto project to mai
 
 In this article, we show the motivation behind the mechanism, explain the exact mechanism, describe the positive effects for the ecosystem and MGX holders and show projections about the expected outcomes.
 
+You can also watch the article as video:
+<iframe width="720" height="405" src="https://www.youtube.com/embed/TtedrObjFz0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Motivation
 
 One of the mottos of [Mangata X Tokenomics](https://blog.mangata.finance/blog/2022-02-13-the-mangata-playbook-part-3-tokenomics/){:target="\_blank"} is “Hard capped, infinite rewards”. We like it, because it shows how you can overcome seemingly conflicting interests when you add a new twist to it. In the case above, the motto expresses how we managed to solve the incentive supply dilemma. To understand the supply dilemma, we first must understand the incentive dilemma.
