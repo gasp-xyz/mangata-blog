@@ -10,7 +10,7 @@ excerpt: "<p>Equity round joined by previous investors lifts the Polkadot startu
 ## Equity round joined by previous investors lifts the Polkadot startup's valuation to $60M
 **Bratislava, Slovakia/April 28, 2022** — Mangata, the community-driven DEX looking to solve some of the biggest problems facing the global crypto market, has raised a $4.2 million equity round, valuing the company at $60 million, shortly after the launch of its first blockchain on the Kusama network. 
 
-Returning investors Altonomy, Polychain, and TRGC took part in the strategic round, and were joined by new investors including Signum Capital, Headline, Figment, ZMT Capital, AngelDAO, and Paribu Ventures. 
+Returning investors Altonomy, Polychain, and TRGC took part in the strategic round, and were joined by new investors including Signum Capital, Infinity Ventures Crypto, Figment, ZMT Capital, AngelDAO, and Paribu Ventures. 
 
 “Altonomy believes in Mangata’s efforts around connecting major blockchains, improving security for traders, and helping reduce fees by eliminating gas from the equation, which is why we returned for a second round of funding,” says Altonomy Director Ricky Li.
 

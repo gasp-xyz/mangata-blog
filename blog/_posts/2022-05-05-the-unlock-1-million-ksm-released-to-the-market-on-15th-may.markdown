@@ -5,9 +5,9 @@ date: 2022-05-05
 image: "2022-05-05-1-million-ksm.png"
 author: "Mangata Team"
 author-image: "mangata-team.png"
-excerpt: "On 15th May, 2022, 1.1m KSM (150m USD as of today) are getting unlocked to the market. That is 9% of the total supply! In this post, we are making the case for investors to put a portion of them into the upcoming Mangata X liquidity bootstrapping event."
+excerpt: "On 15th May, 2022, 1.1m KSM (150m USD as of today) are getting unlocked to the market. That is 9% of the total supply! In this post, we are making the case for investors to put a portion of them into the upcoming Mangata X MGX-KSM liquidity bootstrapping event."
 ---
-**On 15th May, 2022, 1.1 million KSM (150 million USD as of today) are getting unlocked to the market.** That is 9% of the total supply! In this post, we are making the case for investors to put a portion of them into the upcoming Mangata X liquidity bootstrapping event.
+**On 15th May, 2022, 1.1 million KSM (150 million USD as of today) are getting unlocked to the market.** That is 9% of the total supply! In this post, we are making the case for investors to put a portion of them into the upcoming Mangata X MGX-KSM liquidity bootstrapping event.
 
 What’s the backstory? Over a million KSM were locked up one year ago in the first round of parachain slot auctions by crowdloan investors. In return, they got airdrops in some of the most awaited blockchain projects of the year: Karura, Moonriver, Bifrost, Shiden and Khala. 
 
@@ -25,11 +25,11 @@ Will KSM price tank due to sell pressure or will some of the other options on th
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">What will you do with your <a href="https://twitter.com/search?q=%24KSM&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$KSM</a> that are about to get unlocked from the first crowdloan cohort?</p>&mdash; Alice und Bob (⚖️,⚖️) (@alice_und_bob) <a href="https://twitter.com/alice_und_bob/status/1521811366436352003?ref_src=twsrc%5Etfw">May 4, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-One thing that stood out was that a third of the 448 respondents plan to use their KSM in DeFi.
+One thing that stood out was that a third of the ~450 respondents plan to use their KSM in DeFi.
 
 ## 1.1 Million Units of Rocket Fuel
 
-Before we offer the Mangata X liquidity bootstrapping event as an opportunity to become an early participant of MGX, let’s look at the big picture of Polkadot and Kusama first.
+Before we offer the Mangata X MGX-KSM liquidity bootstrapping event as an opportunity to become an early participant of MGX, let’s look at the big picture of Polkadot and Kusama first.
 
 While some amount of price dipping could be expected from *#TheUnlock*, we think this event will act as a transfer of KSM from low conviction speculators to high conviction investors who have a more sound technological understanding of the power of the Polkadot ecosystem.
 
@@ -59,7 +59,10 @@ The first milestone in this series of events will be the bootstrapping of the MG
 
 **We invite you to join the bootstrap with your KSM and MGX!**
 
-Becoming an MGX-KSM holder will allow you to receive LP fees, profit from [algorithmic buy and burn](https://blog.mangata.finance/blog/2022-03-21-algorithmic-buy-and-burn/){:target="\_blank"} as well as passive ownership of the Mangata X treasury, receive liquidity mining incentives and participate in [Proof-of-Liquidity](https://blog.mangata.finance/blog/2021-11-08-proof-of-liquidity/){:target="\_blank"} staking. (If you want to learn more about these, we invite you to read through our [Tokenomics](https://blog.mangata.finance/blog/2022-02-13-the-mangata-playbook-part-3-tokenomics/){:target="\_blank"}). Joining the bootstrap will also start to grow your rewards from [time incentivized liquidity provision](https://www.youtube.com/watch?v=6YkthwEAkmc){:target="\_blank"} right after you claim your liquidity.
+Becoming an MGX-KSM liquidity holder will allow you to receive LP fees, profit from [algorithmic buy and burn](https://blog.mangata.finance/blog/2022-03-21-algorithmic-buy-and-burn/){:target="\_blank"} as well as passive ownership of the Mangata X treasury, receive liquidity mining incentives and participate in [Proof-of-Liquidity](https://blog.mangata.finance/blog/2021-11-08-proof-of-liquidity/){:target="\_blank"} staking. (If you want to learn more about these, we invite you to read through our [Tokenomics](https://blog.mangata.finance/blog/2022-02-13-the-mangata-playbook-part-3-tokenomics/){:target="\_blank"}). Joining the bootstrap will also start to grow your rewards from [time incentivized liquidity provision](https://www.youtube.com/watch?v=6YkthwEAkmc){:target="\_blank"} right after you claim your liquidity.
+
+![Mangatarians are in it for the liquidity](/assets/posts/2022-05-05-in-it-for-the-liquidity.jpg)
+*One of the winning submissions of our recently concluded [Liquid Meme Competition](https://twitter.com/MangataFinance/status/1521513250994675712){:target="\_blank"}*
 
 ## How to learn more...
 
