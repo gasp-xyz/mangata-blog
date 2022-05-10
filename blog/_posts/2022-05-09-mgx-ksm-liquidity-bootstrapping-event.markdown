@@ -9,7 +9,9 @@ excerpt: "On 15th May 2022, 1.1 million KSM will get unlocked and search for a n
 ---
 Pioneers,
 
-On 15th May 2022, [1.1 million KSM will get unlocked](https://blog.mangata.finance/blog/2022-05-05-the-unlock-1-million-ksm-released-to-the-market-on-15th-may/){:target="\_blank"} and search for a new home. To commemorate the event, Mangata X will shortly be holding the MGX-KSM Liquidity Bootstrapping Event and offer KSM holders the opportunity to join one of the most important liquidity pools of this new ecosystem.
+On 15th May 2022, [1.1 million KSM will get unlocked](https://blog.mangata.finance/blog/2022-05-05-the-unlock-1-million-ksm-released-to-the-market-on-15th-may/){:target="\_blank"} and search for a new home. To commemorate the event, Mangata X will be holding the MGX-KSM Liquidity Bootstrapping Event shortly after the Unlock and offer KSM holders the opportunity to join one of the most important liquidity pools of this new ecosystem.
+
+We currently are validating our features on the testnet. If all goes well, we can begin the bootstrap in the week of 16th May. Follow our socials at the end of the article to get updated as we release new information.
 
 This post will explain the goals, mechanics and process of the event. It will contain links to all resources that we have created. If you want to help a friend understand the bootstrap, kindly send them a link to this blogpost.
 
