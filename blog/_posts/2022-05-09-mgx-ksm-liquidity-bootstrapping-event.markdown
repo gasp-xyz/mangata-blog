@@ -17,6 +17,9 @@ This post will explain the goals, mechanics and process of the event. It will co
 
 **If you want to be part of the bootstrap, unstake your KSM now!**
 
+A video presentation of this article can be found here:
+<iframe width="720" height="405" src="https://www.youtube.com/embed/ZDuAnzpo8jw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## What are the goals of the MGX-KSM Liquidity Bootstrapping Event?
 
 A bootstrap has two primary goals: 
