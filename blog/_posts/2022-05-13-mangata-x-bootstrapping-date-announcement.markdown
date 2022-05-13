@@ -5,7 +5,7 @@ date: 2022-05-13
 image: "2022-05-13-mgx-ksm-launch-delay.png"
 author: "Mangata Team"
 author-image: "mangata-team.png"
-excerpt: "In previous days we have been hinting that we want to start the MGX-KSM Liquidity Bootstrapping Event around the time of #TheUnlock. The Unlock is an event on 15th May when 1.1 million KSM, almost 10% of the circul<ating supply is going to be released to the market. We wanted to launch in the following week and give Kusama investors an opportunity to get in early on the upcoming Kusama DEX Mangata X. But the market had different things in mind."
+excerpt: "Due to global market conditions, the total crypto market took a downturn from 1.8 trillion USD in value to 1.1 trillion USD within just 8 days. We witnessed the implosion of a stablecoin that carried upwards of 40 billion USD in value. Kusama, already being front-run on the market from the impeding unlock also took a significant dip. All in all, the market has a lot of things to talk about and attention is everywhere. For these reasons, we have determined that it is not the right conditions to launch the the MGX-KSM Liquidity Bootstrapping Event yet."
 ---
 On 27th May, 2020, the first humans to launch into space on a privately developed spacecraft were ready to enter the rocket on the launchpad. But mission control delayed the reason. Why? Adverse weather conditions. While rockets are highly developed and specialized machines that are built to sustain extreme conditions, launch weather is a highly critical part of any mission. Just like this mission, many more NASA and SpaceX missions experience delays when weather conditions are not right. Rockets need years for construction and you don't want to waste them because of haste.
 
