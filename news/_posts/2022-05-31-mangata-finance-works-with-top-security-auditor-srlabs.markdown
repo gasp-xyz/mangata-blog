@@ -5,7 +5,7 @@ date: 2022-05-31
 image: "2022-05-31-mangata-srlabs.png"
 author: "Mangata Team"
 author-image: "mangata-team.png"
-excerpt: ""
+excerpt: "After concluding our record-breaking Mangata X crowdloan, we are getting ready for the MGX-KSM Liquidity Bootstrapping Event. In order to ensure that the funds of users are safe, we have decided to work with the top Substrate auditing company in the space: SRLabs. SRLabs is one of the most trusted auditing companies in Substrate. They have audited top projects like Polkadot & Kusama, Acala and Kilt."
 ---
 
 After concluding our [record-breaking Mangata X crowdloan](https://blog.mangata.finance/news/2022-02-22-mangata-x-crowdloan-capped/){:target="\_blank"}, we are getting ready for the [MGX-KSM Liquidity Bootstrapping Event](https://blog.mangata.finance/blog/2022-05-09-mgx-ksm-liquidity-bootstrapping-event/){:target="\_blank"}. In order to ensure that the funds of users are safe, we have decided to work with the top Substrate auditing company in the space: SRLabs. [SRLabs](https://www.srlabs.de/){:target="\_blank"} is one of the most trusted auditing companies in Substrate. They have audited top projects like Polkadot & Kusama, Acala and Kilt.
