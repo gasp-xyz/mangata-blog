@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MGX-KSM Liquidity Bootstrapping Event"
+title: "MGX-KSM Liquidity Bootstrapping Event Date: June 8th"
 date: 2022-06-01
 image: "2022-06-01-ready-to-go.png"
 author: "Mangata Team"
