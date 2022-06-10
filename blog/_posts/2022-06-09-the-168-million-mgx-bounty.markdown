@@ -15,7 +15,7 @@ The Mangata X Ecosystem Development Fund has committed 17% of the TGE supply to 
 In this article, we explain the game theory behind this move.
 
 ## Bootstraps are games
-Liquidity Bootstrapping is a coordination game. What is the fair price of a new token? Nobody knows, because there is no price history yet and everyone has different expectations: Should it be 0.0001$? 1$? 100,000$? We also don’t know what other players think. This makes it hard to come to the first conclusions about the price. And nobody wants to make the first move. Because being the first mover always could always mean being the first loser.
+Liquidity Bootstrapping is a coordination game. What is the fair price of a new token? Nobody knows, because there is no price history yet and everyone has different expectations: Should it be 0.0001$? 1$? 100,000$? We also don’t know what other players think. This makes it hard to come to the first conclusions about the price. And nobody wants to make the first move. Because being the first mover always could mean being the first loser.
 
 To level the playing field, liquidity bootstrapping freezes the liquidity pool for some time and allows everyone to make a move without being immediately punished. Instead, players can make small moves in the frozen pool and watch other players react. The whole process becomes a back and forth between all players until the time is over and trading can finally begin.
 

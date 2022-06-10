@@ -42,9 +42,7 @@ You can easily bridge your KSM to Mangata X using our interface. Due to the rati
 ## Up Next:
 After the bootstrap event concludes, we will focus on opening XCM channels with other parachains (starting with Karura) and improving our user experience. You are invited to our weekly Mangata Mondays on Discord, where we are hosting great people from the Dotsama ecosystem.
 
-### How do I stay in the loop?
-The exact timing will be announced on the day of the bootstrap. If you want to make sure you are informed about all developments, make sure to follow these channels:
-
+### Make sure to stay in the loop!
 1. Join the **Mangata X** Newsletter at [x.mangata.finance](https://x.mangata.finance/){:target="\_blank"}
 2. [Join the Discord](https://discord.gg/mangata){:target="\_blank"}
 3. Follow us on Twitter: [@MangataFinance](https://twitter.com/MangataFinance){:target="\_blank"}
