@@ -31,7 +31,7 @@ Mangata Finance will try out a new variant of this coordination game by making a
 
 We want to turn the bootstrap into a collaborative coordination game: Can we put all players on the same team? The task is to collaboratively figure out the fair price of MGX by contributing KSM. In the end, everyone participating with KSM will contribute the same ratio as everyone else, so no one loses out against other contributors: Everyone receives the same deal.
 
-There are still many unknowns and first movers still have the least information. But they can enjoy the safety of knowing that other players will sit in the same boat as they do, thus sitting on a level playing field.
+There are still many unknowns and first movers will remain in a position where they have the least information. But they can enjoy the safety of knowing that other players will sit in the same boat as they do, thus sitting on a level playing field.
 
 ## Conclusion
 The 168 million MGX bounty is here to put all Kusama ecosystem users on the same team and allow them to agree on the initial fair price of MGX together. At the same time, it will make all participants co-owners of a large portion of Mangata X.
