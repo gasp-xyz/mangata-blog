@@ -5,7 +5,7 @@ date: 2022-06-15
 image: "2022-06-15-mangata-x-concludes-bootstrap-with-13-million-fdv.png"
 author: "Mangata Team"
 author-image: "mangata-team.png"
-excerpt: "Mangata X, the community-owned DEX, has started its MGX-KSM Liquidity Bootstrapping Event with a big bang! 17% of the total MGX supply is offered for grabs to anyone who contributes to the bootstrap. This bold move is intended to radically decentralize liquidity and ownership of the incubating network and give the whole ecosystem a stake in the Kusama DEX."
+excerpt: "Mangata X, the upcoming Kusama DEX has concluded its MGX-KSM Liquidity Bootstrapping Event with a strong result against the crypto bear market. With $13 million FDV (fully diluted value) and about 19% of the MGX supply being contributed, the community-driven DEX is setting sails for its mission to offer all tokens from all chains on a single platform. The initial liquidity mining rush is estimated to offer 78% APR."
 ---
 
 **The DEX-chain offers 78% in liquidity mining incentives after a strong start**
