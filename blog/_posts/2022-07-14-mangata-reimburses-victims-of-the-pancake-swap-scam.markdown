@@ -27,7 +27,7 @@ Mangata finance正准备向在PancakeSwap假MGA销售骗局中的受害者
 
 泰奥多尔-杰里科：美杜莎之战
 
-按照[承诺](https://blog.mangata.finance/news/2021-08-18-mangata-refunds-the-victims-of-the-scam-on-pancakeswap/){:target="\_blank"}，Mangata将以MGX-KSM LP代币按比例补偿被诈骗的受害者损失。根据2021年8月16日的快照，我们的数据库里有一份受影响的BSC钱包地址清单。为了提供他们钱包的所有权，受害者将能够使用一个专门的支持网站将他们的BSC地址与他们的Mangata账户联系起来。
+按照[承诺](https://blog.mangata.finance/news/2021-08-18-mangata-refunds-the-victims-of-the-scam-on-pancakeswap/){:target="\_blank"}，Mangata将以MGX 代币按比例补偿被诈骗的受害者损失。根据2021年8月16日的快照，我们的数据库里有一份受影响的BSC钱包地址清单。为了提供他们钱包的所有权，受害者将能够使用一个专门的支持网站将他们的BSC地址与他们的Mangata账户联系起来。
 
 **如何创建一个Mangata X钱包**
 
@@ -71,7 +71,7 @@ Despite the high winds of the bear market, the Airwhale is here to help you.
 ![](/assets/posts/airwhale-medusa.png)
 [**Théodore Géricault: The Raft of Medusa**](https://en.wikipedia.org/wiki/The_Raft_of_the_Medusa){:target="\_blank"}
 
-[As promised](https://blog.mangata.finance/news/2021-08-18-mangata-refunds-the-victims-of-the-scam-on-pancakeswap/), Mangata will reimburse the scam victims in proportion to their loss with MGX-KSM LP tokens. We have a list of affected BSC wallet addresses in our database based on a snapshot taken on 16th August 2021. To provide ownership of their wallets, the victims will be able to link their BSC addresses with their Mangata accounts using a dedicated support website. 
+[As promised](https://blog.mangata.finance/news/2021-08-18-mangata-refunds-the-victims-of-the-scam-on-pancakeswap/), Mangata will reimburse the scam victims in proportion to their loss with MGX tokens. We have a list of affected BSC wallet addresses in our database based on a snapshot taken on 16th August 2021. To provide ownership of their wallets, the victims will be able to link their BSC addresses with their Mangata accounts using a dedicated support website. 
 
 ### How to create a Mangata X wallet
 
