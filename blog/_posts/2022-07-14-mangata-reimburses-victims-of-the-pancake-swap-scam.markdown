@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Mangata X Concludes Bootstrap with $13 Million FDV"
-date: 2022-06-15
+title: "Mangata X Reimburses Victims of the Pancake Swap Scam"
+date: 2022-07-14
 image: "airwhale-medusa.png"
 author: "Mangata Team"
 author-image: "mangata-team.png"
