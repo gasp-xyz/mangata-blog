@@ -54,7 +54,7 @@ Mangata finance正准备向在PancakeSwap假MGA销售骗局中的受害者
 
 Mangata finance 致力于建立一个公平有人文情怀的社区，这就是为什么我们决定进行这次赔偿用户活动。我们希望这个消息能找到尽可能多的受害者，并希望你能成为我们社区的一员。
 
-
+---
 
 Mangata Finance is offering to reimburse victims that have fallen for a [fake Mangata token sale last year](https://blog.mangata.finance/news/2021-08-18-mangata-refunds-the-victims-of-the-scam-on-pancakeswap/){:target="\_blank"}. In this article, we explain how the victims can connect their BSC wallet to a Mangata account to claim their reimbursement.
 
