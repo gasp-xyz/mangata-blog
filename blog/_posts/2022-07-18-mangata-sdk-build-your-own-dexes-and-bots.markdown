@@ -2,7 +2,7 @@
 layout: post
 title: "Mangata SDK: Build your own DEXes and Bots"
 date: 2022-07-18
-image: "airwhale-medusa.png"
+image: "airwhale-boat-building.png"
 author: "Mangata Team"
 author-image: "mangata-team.png"
 excerpt: "Today, we are giving builders a new tool to start using the DeFi legos that Mangata X has to offer. We are releasing the Mangata SDK 1.0, the same software package that our team is using to build the Mangata X trading app. With this SDK (Software Development Kit), developers will be able to directly tap into the capabilities of Mangata X: gasless swaps, front-running prevention, and private transactions. This allows them to create their own trading bots, DEX interfaces, wallets, and apps."
