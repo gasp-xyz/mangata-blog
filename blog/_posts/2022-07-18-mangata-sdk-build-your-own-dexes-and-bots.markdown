@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mangata SDK: Build your own DEXes and Bots"
+title: "Mangata SDK 1.0: Build your own DEXes and Bots"
 date: 2022-07-18
 image: "airwhale-boat-building.png"
 author: "Mangata Team"
