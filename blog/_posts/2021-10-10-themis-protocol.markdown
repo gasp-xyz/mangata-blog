@@ -159,4 +159,4 @@ We went into the technical implementation at the Sub0 conference hosted by Parit
 
 
 *The research is led by Gleb Urvanov.*
-*Thanks to Xinshu Dong, Luke Pearson, Will Wolf, Marcin Gorny and the whole team at Substrate Builders for contributing comments and ideas.*
+*Thanks to Xinshu Dong, Luke Pearson, Will Wolf, Peter Kris, Marcin Gorny, and the whole team at Substrate Builders for contributing comments and ideas.*
