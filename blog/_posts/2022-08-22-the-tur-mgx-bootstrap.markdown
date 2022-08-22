@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "TUR-MGX - Launching TUR Liquidity on Mangata X"
+title: "TUR-MGX - Launching TUR Liquidity on Mangata X on 29th August 2022"
 date: 2022-07-19
 image: "tur-mgx.jpg"
 author: "Mangata Team"
