@@ -39,11 +39,9 @@ Mangata X continues to deliver its users cutting-edge technology. With the new b
 
 ## Stay in the loop!
 
-- Get in contact with other [#developers](https://discord.gg/YUgHEx6R) ([https://discord.gg/YUgHEx6R](https://discord.gg/YUgHEx6R)){:target="\_blank"} at Mangata Discord.
-- Follow us on Twitter: [@MangataFinance](https://twitter.com/MangataFinance){:target="\_blank"}
-- [Join the Telegram](https://t.me/mgtfi){:target="\_blank"}
-- Check out ([https://github.com/mangata-finance/mangata-sdk](https://github.com/mangata-finance/mangata-sdk)){:target="\_blank"} on Github.
-- Subscribe to our YouTube channel: [youtube.com/c/MangataFinance](https://www.youtube.com/c/MangataFinance){:target="\_blank"}
+1. Follow us on Twitter: [@MangataFinance](https://twitter.com/MangataFinance){:target="\_blank"}
+2. [Join the Telegram](https://t.me/mgtfi){:target="\_blank"}
+3. Subscribe to our YouTube channel: [youtube.com/c/MangataFinance](https://www.youtube.com/c/MangataFinance){:target="\_blank"}
 
 
 ## About Mangata
