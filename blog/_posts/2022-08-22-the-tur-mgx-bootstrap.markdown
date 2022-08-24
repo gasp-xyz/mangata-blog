@@ -10,7 +10,7 @@ excerpt: "Mangata's brand-new Bootstrapping Pallet enables Turing Network to bri
 
 TUR is ready to go into price discovery! After Turing Network's successful launch on Kusama, its TUR token is getting ready to hit the markets. Thanks to our freshly opened XCM channel with Turing Network, Mangata X users will be able to seamlessly transfer assets between Turing and Mangata X. We are proud to be partnering with OAK Network to explore how Turing (OAK'S canary network on Kusama) gives traders new tools like auto-compounding, dollar-cost averaging, iceberg orders, and more.
 
-Read the official announcement from Turing here: [Bootstrapping Turing Liquidity on Mangata X](https://medium.com/oak-blockchain/bootstrapping-turing-liquidity-on-mangata-x-ab1c511324a9)
+Read the official announcement from Turing here: [Bootstrapping Turing Liquidity on Mangata X](https://medium.com/oak-blockchain/bootstrapping-turing-liquidity-on-mangata-x-ab1c511324a9){:target="\_blank"}
 
 
 ## TUR-MGX Bootstrap and Incentives
@@ -23,10 +23,10 @@ To ensure sufficient liquidity, Mangata X and Turing have agreed to provide 10 M
 Launching a token with Mangata's Bootstrapping Pallet
 Turing Network has decided to launch TUR in the TUR-MGX liquidity pool on Mangata X with our brand-new bootstrapping pallet. Together, we will leverage Turing Network's potential to bring automation to the Dotsama ecosystem. This bootstrap marks the first time Mangata's custom bootstrapping pallet is put to work for another protocol.
 
-If you are part of a crypto team and want to bootstrap your token on Mangata X, we invite you to read our guide: [Bootstrapping your Token on Mangata X](https://mangata-finance.notion.site/Bootstrapping-your-token-b4bfa8629f1d4acf8ab27f540bea6a1d)
+If you are part of a crypto team and want to bootstrap your token on Mangata X, we invite you to read our guide: [Bootstrapping your Token on Mangata X](https://mangata-finance.notion.site/Bootstrapping-your-token-b4bfa8629f1d4acf8ab27f540bea6a1d){:target="\_blank"}
 
 ## New Use-cases for XCM with On-chain Automations
-The channel between Mangata X and Turing Network and the bootstrap not only enables token transfers and TUR listing. From now on, our users will be able to pay the exchange fees on the [Mangata X trading app](https://app.mangata.finance/) with TUR tokens. Since Turing Network is developing on-chain automation solutions, Mangata X users will be able to utilize Turing Network for various automation tasks such as dollar cost averaging, iceberg orders, and auto compounding.
+The channel between Mangata X and Turing Network and the bootstrap not only enables token transfers and TUR listing. From now on, our users will be able to pay the exchange fees on the [Mangata X trading app](https://app.mangata.finance/){:target="\_blank"} with TUR tokens. Since Turing Network is developing on-chain automation solutions, Mangata X users will be able to utilize Turing Network for various automation tasks such as dollar cost averaging, iceberg orders, and auto compounding.
 
 Establishing liquidity for the TUR-MGX pair will lay the groundwork for these exciting new use cases. Keep an eye on our socials for an announcement that will cover these new cross-chain applications that will shake the ground in the Dotsama ecosystem!
 
