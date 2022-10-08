@@ -8,11 +8,11 @@ author-image: "mangata-team.png"
 excerpt: ""
 ---
 
-On 6th October 2022, Mangata X was targeted by a governance attack which resulted in attackers gaining voting rights on the on-chain Council for a brief time. The incident has since been resolved and Mangata X is fully operational.
+On 6th October 2022, Mangata X was targeted by a governance attack which resulted in attackers gaining voting rights on the on-chain Council for a brief time. The incident has since been resolved and Mangata X is fully operational and safe.
 
 The type of the attack was novel. Instead of a technical hack, the attacker used a hostile takeover of the council at 4:39 AM UTC to authorize transferring KSM from the parachain sovereign account on Kusama to another Kusama account. At 18:29 PM UTC we regained control of the council and countered the actions taken by the attackers in full.
 
-All funds have been replenished. No user has their funds affected. Mangata X is fully operational and safe. Users do not need to take any additional action.
+11700 KSM have been stolen. We have replenished the stolen amount from our own funds to ensure continued and safe operations. No user has their funds affected. Users do not need to take any additional action.
 
 Our team is in contact with relevant parties to assess this matter in the most assertive way. We will provide more information going forward - in particular how other parachains can prevent this kind of governance attack in the future.
 
