@@ -2,7 +2,7 @@
 layout: post
 title: "Council Incident Report"
 date: 2022-10-17
-image: "2022-10-10-investigation-into-the-council-incident.jpg"
+image: "2022-10-17-investigation-into-the-council-incident.jpg"
 author: "Mangata Team"
 author-image: "mangata-team.png"
 excerpt: ""
