@@ -4,8 +4,8 @@ title: "Mangata X lists IMBU from Imbue Network - Liquidity Bootstrapping Event 
 date: 2022-10-27
 image: "2022-10-27-imbue-cover.jpg"
 author: "Mangata Team"
-author-image: "2022-10-27-imbue-cover.png"
-excerpt: ""
+author-image: "mangata-team.png"
+excerpt: "Mangata X is about to list IMBU, the native token of the Imbue Network. Imbue is aiming to provide decentralized crowdfunding services in the Polkadot ecosystem. IMBU will be bootstrapped on the Kusama DEX with the IMBU-MGX pair on the 7th of November. The bootstrap will run for 3 days, and Mangata X users and the Imbue community will be able to join the bootstrap by providing IMBU or MGX."
 ---
 Mangata X is about to list IMBU, the native token of the Imbue Network. Imbue is aiming to provide decentralized crowdfunding services in the Polkadot ecosystem. IMBU will be bootstrapped on the Kusama DEX with the IMBU-MGX pair on the 7th of November. The bootstrap will run for 3 days, and Mangata X users and the Imbue community will be able to join the bootstrap by providing IMBU or MGX. After the bootstrap, IMBU will be tradable on [app.mangata.finance](https://app.mangata.finance/){:target="\_blank"}.
 
