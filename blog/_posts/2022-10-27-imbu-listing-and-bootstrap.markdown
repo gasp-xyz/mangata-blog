@@ -17,6 +17,9 @@ The projects that will utilize Imbue’s crowdfunding mechanism will be subject 
 
 As a receiver of grants from Web3 Foundation and Substrate Builders Program, Imbue Network’s native token IMBU is one of the most anticipated tokens in the ecosystem. Imbue is not funded with venture capital, and offers the Dotsama community a fair and community-focused token launch with the IMBU-MGX Bootstrap.
 
+We recently invited Sam Elamin from Imbue Network to a call:
+<iframe width="720" height="405" src="https://www.youtube.com/embed/HAiS942WSmU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Do not miss the chance to be a part of this occasion and join the bootstrap!**
 
 ## IMBU-MGX Bootstrap & Incentive Program
