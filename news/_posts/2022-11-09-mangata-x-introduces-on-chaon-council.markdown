@@ -18,6 +18,9 @@ In the future, it is our intention to decentralize Mangata X and the council pro
 
 ![](/assets/posts/2022-11-09-council-artwork.png)
 
+**[The Syndics - Rembrandt](https://www.wikiart.org/en/rembrandt/the-syndics){:target="\_blank"}**
+
+
 ## Make sure to stay in the loop
 
 1. Follow us on Twitter [@MangataFinance](https://twitter.com/MangataFinance){:target="\_blank"}
