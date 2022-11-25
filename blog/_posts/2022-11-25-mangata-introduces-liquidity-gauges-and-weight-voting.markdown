@@ -5,12 +5,12 @@ date: 2022-11-25
 image: "2022-11-25-mangata-introduces-liquidity-gauges-and-weight-voting.png"
 author: "Mangata Team"
 author-image: "mangata-team.png"
-excerpt: "Liquidity Gauges are a powerful incentive mechanism pioneered by Curve Finance on Ethereum that has led to deep liquidity, increased governance participation, and resulted in the infamous “Flywheel Effect” and the Curve Wars. Mangata Labs is now introducing Liquidity Gauges and Weight Voting to the Polkadot Ecosystem. The features will go live on Mangata X next week."
+excerpt: "Liquidity Gauges are a powerful incentive mechanism pioneered by Curve Finance on Ethereum that has led to deep liquidity, increased governance participation, and resulted in the infamous “Flywheel Effect” and the Curve Wars. Mangata Labs is now introducing Liquidity Gauges and Weight Voting to the Polkadot Ecosystem. The first release will go live on Mangata X next week."
 ---
 
-*Liquidity Gauges are a powerful incentive mechanism pioneered by Curve Finance on Ethereum that has led to deep liquidity, increased governance participation, and resulted in the infamous “Flywheel Effect” and the Curve Wars.*
+Liquidity Gauges are a powerful incentive mechanism pioneered by Curve Finance on Ethereum that has led to deep liquidity, increased governance participation, and resulted in the infamous “Flywheel Effect” and the Curve Wars.
 
-*Mangata Labs is now introducing Liquidity Gauges and Weight Voting to the Polkadot Ecosystem. The features will go live on Mangata X next week.*
+Mangata Labs is now introducing Liquidity Gauges and Weight Voting to the Polkadot Ecosystem. The first release will go live on Mangata X next week.
 
 This article describes Liquidity Gauges, the underlying foundations that make them so successful and lays out the path for how Mangata will introduce them to the Polkadot ecosystem, starting with Mangata X on Kusama.
 
