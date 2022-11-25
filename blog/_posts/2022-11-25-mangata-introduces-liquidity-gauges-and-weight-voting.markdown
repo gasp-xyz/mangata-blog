@@ -21,7 +21,7 @@ This article describes Liquidity Gauges, the underlying foundations that make th
 
 As DeFi protocols become more powerful, the question of how liquidity mining emissions shall be distributed can become very contentious. It’s a *“make or break”* factor that decides if a protocol becomes hugely successful or succumbs to political infighting and corruption.
 
-To solve this problem, Curve Finance has introduced [Liquidity Gauges](https://curve.readthedocs.io/dao-gauges.html){:target="\_blank"} on top of their liquidity pools. Liquidity Gauges essentially control the flow of rewards in the system: Which liquidity pools shall receive rewards and how they are distributed among liquidity providers? Gauges are a simple, powerful, and flexible tool that gives the DAO governance the levers to direct rewards to where they add the most value.
+To solve this problem, Curve Finance has introduced [Liquidity Gauges](https://curve.readthedocs.io/dao-gauges.html){:target="\_blank"} on top of their liquidity pools. Liquidity Gauges essentially control the flow of rewards in the system: Which liquidity pools shall receive rewards and how are they distributed among liquidity providers? Gauges are a simple, powerful, and flexible tool that gives the DAO governance the levers to direct rewards to where they add the most value.
 
 Gauges are made possible by weight voting. Weight voting on Curve democratizes decision-making. With it, token holders can vote on which liquidity pool shall receive incentives, thus giving each user a voice and each token utility by steering the policy of the DAO.
 
@@ -33,7 +33,7 @@ Additionally, protocols seeking liquidity on Curve get a means to incentivize li
 
 Introducing Curve Liquidity Gauges was a very successful strategy and led to a surge in liquidity provision and governance participation. And of course, the infamous [Curve Wars](https://www.youtube.com/watch?v=-0Q3fp-wzXI){:target="\_blank"}, where protocols compete for voting power in Curve.
 
-The underlying genius of Liquidity Gauges and Weight Voting is that value-adding behavior becomes incentivized! Steering the protocol via governance participation as well as providing liquidity are value-additive behaviors that receive proper compensation from Liquidity Gauges.
+The underlying genius of Liquidity Gauges and Weight Voting is that value-adding behavior becomes incentivized! Steering the protocol via governance participation as well as providing liquidity are beneficial behaviors that receive proper compensation from Liquidity Gauges.
 
 As the proper value-adding behavior gets incentivized, the effect of growing interest compounds in the so-called Flywheel effect, where network effects take over to increase interest in the protocol.
 
