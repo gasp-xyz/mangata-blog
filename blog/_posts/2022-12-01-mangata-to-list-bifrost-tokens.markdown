@@ -2,7 +2,7 @@
 layout: post
 title: "Listing Bifrost tokens BNC, vMOVR, vKSM, and vsKSM on Mangata X"
 date: 2022-12-01
-image: "2022-12-01-bifrost-mangata.png"
+image: "2022-12-01-bifrost-mangata.jpg"
 author: "Mangata Team"
 author-image: "mangata-team.png"
 excerpt: "Today, we are excited to announce the listing of four new tokens on Mangata X: BNC, vMOVR, vKSM, and vsKSM. The listing will double the amount of tokens available on the Kusama DEX Mangata X. These tokens will be made available through a new XCM channel to Bifrost. Users will be able to deposit and swap tokens in the coming days. New liquidity mining incentives and arbitrage opportunities will open up as a result of these listings."
