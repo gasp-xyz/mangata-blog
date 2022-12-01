@@ -23,7 +23,7 @@ Four tokens will be made available for trading on Mangata X:
 ## New Earnings Opportunities with Incentives and Arbitrage Opportunities
 As those new tokens enter the Mangata X ecosystem, it will open up new earnings opportunities for liquidity providers and arbitrage traders.
 
-Liquidity mining incentives will be decided by the Mangata X council in the coming days. The Council will leverage the new [Liquidity Gauges]() feature which is being launched on Mangata X this week. The community is invited to make suggestions on which pairs should be incentivized on the Mangata Discord.
+Liquidity mining incentives will be decided by the Mangata X council in the coming days. The Council will leverage the new [Liquidity Gauges](https://blog.mangata.finance/blog/2022-11-25-mangata-introduces-liquidity-gauges-and-weight-voting/){:target="\_blank"} feature which is being launched on Mangata X this week. The community is invited to make suggestions on which pairs should be incentivized on the Mangata Discord.
 
 As more pairs get listed on Mangata X, new arbitrage opportunities to other DEXes in the ecosystem open up for active observers.
 
@@ -31,7 +31,7 @@ Pool creation on Mangata X is permissionless, anyone can do it. Alongside the pr
 
 ![airwhale valhalla.png](/assets/posts/2022-12-01-airwhale-valhalla.png)
 
-[Valhalla (1896) - Max Brückner](https://commons.wikimedia.org/wiki/File:Walhalla_(1896)_by_Max_Br%C3%BCckner.jpg)
+[Valhalla (1896) - Max Brückner](https://commons.wikimedia.org/wiki/File:Walhalla_(1896)_by_Max_Br%C3%BCckner.jpg){:target="\_blank"}
 
 ## Rollout
 As this represents a larger rollout with 4 more tokens entering the Mangata X ecosystem, we will proceed in steps and will make further announcements on the exact listing times and modalities.
