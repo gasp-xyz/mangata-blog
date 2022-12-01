@@ -10,8 +10,6 @@ excerpt: "Today, we are excited to announce the listing of four new tokens on Ma
 
 Today, we are excited to announce the listing of four new tokens on Mangata X: BNC, vMOVR, vKSM, and vsKSM. The listing will double the amount of tokens available on the Kusama DEX Mangata X. These tokens will be made available through a new XCM channel to Bifrost. MGX will become available on the Bifrost chain. Users will be able to deposit and swap tokens in the coming days. New liquidity mining incentives and arbitrage opportunities will open up as a result of these listings.
 
-![bifrost-mangata-final (1).jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/69df35ba-130c-4a2e-b872-ce45ebc6d666/bifrost-mangata-final_(1).jpg)
-
 ## Connecting Bifrost's Capital Efficiency to Mangata X
 Bifrost is a DeFi parachain that focuses an liquid staking and liquid crowdloan derivatives. It allows users to tap into the earnings possibilities of native staking without having to deal with the inner complexities. Therefore, Bifrost's vision is a perfect match for Mangata's focus on capital efficiency.
 
@@ -31,7 +29,7 @@ As more pairs get listed on Mangata X, new arbitrage opportunities to other DEXe
 
 Pool creation on Mangata X is permissionless, anyone can do it. Alongside the protocols' promoted pools, Mangata X users will be able to create custom Liquidity pools between the tokens that are already listed on Mangata X.
 
-![airwhale valhalla.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1eec3166-b974-45c9-8d4d-82be27ed21bd/airwhale_valhalla.png)
+![airwhale valhalla.png](/assets/posts/2022-12-01-airwhale-valhalla.png)
 
 [Valhalla (1896) - Max Brückner](https://commons.wikimedia.org/wiki/File:Walhalla_(1896)_by_Max_Br%C3%BCckner.jpg)
 
