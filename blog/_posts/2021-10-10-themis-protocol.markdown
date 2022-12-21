@@ -12,13 +12,15 @@ Miner Extractable Value (MEV) is a fundamental problem of blockchains, described
 
 MEV is a hard problem in decentralized systems and current popular blockchains such as Ethereum were designed at a time when transaction order fairness was not taken into account. MEV is shifting power from users to miners and we consider it the most pressing problem in crypto. 
 
+There are generally two approaches to solving MEV: MEV redistribution and MEV minimization. MEV redistribution is chosen by projects like [Flashbots](https://flashbots.net/){:target="\_blank"}, which create off-chain markets to distribute MEV to miners and searchers. Themis is a solution for MEV minimization, as it does not take MEV from users in the first place, thereby reducing invisible costs.
+
 We are excited to present our solution to MEV. This solution is optimized for DEX-specific blockchains but may serve as inspiration for wider app-specific use cases. We’ve chosen the name Themis Protocol, as Themis is the Greek goddess of justice. We believe it will bring more fairness and justice to DeFi.
 
 For this article, we make the following assumptions:
 * We use the term Miner, but it applies to Validators on Proof of Stake networks too.
 * The User is a light-client participant and we omit the fact that the Miner is a user too. 
 * We assume that only [unconventional MEV](https://github.com/flashbots/mev-research/issues/24){:target="\_blank"} is considered under MEV, because conventional MEV is treated as mandatory for blockchains to work (transaction fees and block rewards). 
-* We’re not using the notion of good/bad MEV because we don’t consider MEV like arbitrage as a good MEV. I.e. arbitrage MEV is unfair because users have no chance at claiming this value (assuming no presence of Flashbots-like auctions). Essentially no MEV is good by our definition.
+* We’re not using the notion of good/bad MEV because we posit that older definitions of MEV highlighted the problem better. The problem is that miners have more power than users, rather than which type of extractable value is good or bad in itself. For example, arbitrage is unfair if users have no chance at claiming this value.
 
 We’re confident to say it’s a reasonably complete solution to MEV, that works in a permissionless setting and uses only traditional cryptography. With modifications it should work well for both PoW and PoS networks.
 
@@ -124,6 +126,10 @@ If included into the block, the transaction executor should decrypt and execute 
 They can not. But non-designated block builders can include the transaction into the block, making it mandatory for the designated block builder and executor to decrypt their part. It is trivial to prove they misbehaved if they have not decrypted the transaction which is already included in the block, and the block is known to them.
 
 If the current block builder didn’t decrypt all transactions that they should’ve decrypted, the transactions are waiting in the mempool until the block builder is elected again, by the respective PoS or PoW mechanism. This introduces a new class of attack vectors. Because of it we will need to ensure that encrypted transactions do not cross session boundaries. In some PoS consensus mechanisms like Aura (which is used for Substrate parachains currently) a user can specify when exactly they want the transaction executed.
+
+### How is randomized ordering affecting the resulting price of a trade? How can I be sure it’s a better price?
+
+In MEV redistribution the common user is positioned last in the redistribution chain, and they are usually left with the worst price possible, unless they deploy more sophisticated MEV searcher strategies. In randomized ordering set, the price is statistically equitable for all participants in a big enough set of trades.
 
 ## Future areas of the research
 
