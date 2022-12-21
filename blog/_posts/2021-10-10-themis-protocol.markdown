@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introducing Themis protocol v1. A solution to MEV for application-specific blockchains"
+title: "Introducing Themis Consensus Extension v1. A Solution to MEV for Application-specific Blockchains"
 date: 2021-10-10
 image: "themis-cover.png"
 author: "Mangata Team"
@@ -12,7 +12,7 @@ Miner Extractable Value (MEV) is a fundamental problem of blockchains, described
 
 MEV is a hard problem in decentralized systems and current popular blockchains such as Ethereum were designed at a time when transaction order fairness was not taken into account. MEV is shifting power from users to miners and we consider it the most pressing problem in crypto. 
 
-There are generally two approaches to solving MEV: MEV redistribution and MEV minimization. MEV redistribution is chosen by projects like [Flashbots](https://flashbots.net/){:target="\_blank"}, which create off-chain markets to distribute MEV to miners and searchers. Themis is a solution for MEV minimization, as it does not take MEV from users in the first place, thereby reducing invisible costs.
+There are generally two approaches to solving MEV: MEV redistribution and MEV minimization. MEV redistribution is chosen by projects like [Flashbots](https://flashbots.net/){:target="\_blank"}, which create off-chain markets to distribute MEV to miners and searchers. Themis is a solution for MEV minimization, as it does not take MEV from users in the first place. It's more capital efficient to not take money in the first place, rather than trying to redistribute it after it has been taken.
 
 We are excited to present our solution to MEV. This solution is optimized for DEX-specific blockchains but may serve as inspiration for wider app-specific use cases. We’ve chosen the name Themis Protocol, as Themis is the Greek goddess of justice. We believe it will bring more fairness and justice to DeFi.
 
