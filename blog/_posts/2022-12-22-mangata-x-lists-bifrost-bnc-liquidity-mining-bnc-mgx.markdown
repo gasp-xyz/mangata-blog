@@ -12,13 +12,13 @@ Mangata X proudly presents a new token listing on the platform. BNC (Bifrost Nat
 - Depositing on the Trading App starts at: 11pm UTC
 - Liquidity Mining starts at: 14pm UTC
 
-Users can find guides on how to deposit to the chain as well as liquidity provisions from our [User Guides section on the Mangata Public Workspace](https://mangata-finance.notion.site/User-Guide-f53e744dc1be4fbf809fc8f3f127b2a8){:target="\_blank"}.
+Users can find guides on how to deposit to the chain as well as liquidity provisions on our [User Guides section on the Mangata Public Workspace](https://mangata-finance.notion.site/User-Guide-f53e744dc1be4fbf809fc8f3f127b2a8){:target="\_blank"}.
 
 ## Pool Weights and Incentives
 
 After extensive deliberations on Mangata Forums, the Concil will vote on the new pool weights for both new and existing promoted pools on Mangata X. The weight for the BNC-MGX pool will be 10% of the current incentives, which corresponds to 82,000 MGX per day! The targeted APR for this liquidity pair is 277% on the targeted liquidity of 10,000 USD. Mangata X users are encouraged to join the discussion on pool weights through [Mangata Forums on our Discord channel](https://discord.com/channels/776977650907480074/1047932033701269554){:target="\_blank"}.
 
-![Untitled](assets/posts/2022-12-22-bnc-mgx-pool-weights.png)
+![Untitled](/assets/posts/2022-12-22-bnc-mgx-pool-weights.png)
 
 ## New Routes for MGX Liquidity
 
@@ -42,7 +42,7 @@ Follow Mangata Finance to get updated on all our latest developments:
 
 ---
 
-![](assets/posts/2022-12-22-winter-mangata.png)
+![](/assets/posts/2022-12-22-winter-mangata.png)
 
 **[Ivan Aivazovsky - Winter Scene](https://commons.wikimedia.org/wiki/File:Ivan_Constantinovich_Aivazovsky_-_Winter_Scene_in_Little_Russia.JPG){:target="\_blank"}**
 
