@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mangata X lists Bifrost-BNC - Liquidity Mining for BNC-MGX starts on December 22!"
+title: "Mangata X lists Bifrost-BNC - Liquidity Mining for BNC-MGX starts on December 23!"
 date: 2022-12-22
 image: "2022-12-22-mangata-x-lists-bnc.jpg"
 author: "Mangata Team"
@@ -8,11 +8,15 @@ author-image: "mangata-team.png"
 excerpt: "Today, we are excited to announce the listing of four new tokens on Mangata X: BNC, vMOVR, vKSM, and vsKSM. The listing will double the amount of tokens available on the Kusama DEX Mangata X. These tokens will be made available through a new XCM channel to Bifrost. Users will be able to deposit and swap tokens in the coming days. New liquidity mining incentives and arbitrage opportunities will open up as a result of these listings."
 ---
 
-Mangata X proudly presents a new token listing on the platform. Bifrost Native Coin (BNC) is getting listed on Mangata X on the 22nd of December 2022. After the listing, users will be able to provide liquidity for BNC pairs and start earning rewards for providing liquidity to the BNC-MGX pool. Users can find guides on how to deposit to the chain as well as liquidity provisions from our [User Guides section on the Mangata Public Workspace](https://mangata-finance.notion.site/User-Guide-f53e744dc1be4fbf809fc8f3f127b2a8){:target="\_blank"}.
+Mangata X proudly presents a new token listing on the platform. BNC (Bifrost Native Coin) is getting listed on Mangata X on the 22nd of December 2022. After the listing, users will be able to provide liquidity for BNC pairs and start earning rewards for providing liquidity to the BNC-MGX pool.
+- Depositing on the Trading App starts at: 11pm UTC
+- Liquidity Mining starts at: 14pm UTC
+
+Users can find guides on how to deposit to the chain as well as liquidity provisions from our [User Guides section on the Mangata Public Workspace](https://mangata-finance.notion.site/User-Guide-f53e744dc1be4fbf809fc8f3f127b2a8){:target="\_blank"}.
 
 ## Pool Weights and Incentives
 
-After extensive deliberations on Mangata Forums, the council will vote on the new pool weights for both new and existing promoted pools on Mangata X. The weight for the BNC-MGX pool will be 10% of the current incentives, which corresponds to 82,000 MGX per day! The targeted APR for this liquidity pair is 277% on the targeted liquidity of 10,000 USD. Mangata X users are encouraged to join the discussion on pool weights through [Mangata Forums on our Discord channel](https://discord.com/channels/776977650907480074/1047932033701269554){:target="\_blank"}.
+After extensive deliberations on Mangata Forums, the Concil will vote on the new pool weights for both new and existing promoted pools on Mangata X. The weight for the BNC-MGX pool will be 10% of the current incentives, which corresponds to 82,000 MGX per day! The targeted APR for this liquidity pair is 277% on the targeted liquidity of 10,000 USD. Mangata X users are encouraged to join the discussion on pool weights through [Mangata Forums on our Discord channel](https://discord.com/channels/776977650907480074/1047932033701269554){:target="\_blank"}.
 
 ![Untitled](assets/posts/2022-12-22-bnc-mgx-pool-weights.png)
 

@@ -14,7 +14,7 @@ MEV is a hard problem in decentralized systems and current popular blockchains s
 
 There are generally two approaches to solving MEV: MEV redistribution and MEV minimization. MEV redistribution is chosen by projects like [Flashbots](https://flashbots.net/){:target="\_blank"}, which create off-chain markets to distribute MEV to miners and searchers. Themis is a solution for MEV minimization, as it does not take MEV from users in the first place. It's more capital efficient to not take money in the first place, rather than trying to redistribute it after it has been taken.
 
-We are excited to present our solution to MEV. This solution is optimized for DEX-specific blockchains but may serve as inspiration for wider app-specific use cases. We’ve chosen the name Themis Protocol, as Themis is the Greek goddess of justice. We believe it will bring more fairness and justice to DeFi.
+We are excited to present our solution to MEV. This solution is optimized for DEX-specific blockchains but may serve as inspiration for wider app-specific use cases. We’ve chosen the name Themis Consensus Extension, as Themis is the Greek goddess of justice. We believe it will bring more fairness and justice to DeFi.
 
 For this article, we make the following assumptions:
 * We use the term Miner, but it applies to Validators on Proof of Stake networks too.
@@ -28,7 +28,7 @@ The article structure:
 * MEV powers
   * VER: Value Extraction by Reordering
   * VED: Value Extraction by Denial
-* Introducing Themis protocol
+* Introducing Themis Consensus Extension
   * Solution to VER
   * Solution to VED
   * Common questions
@@ -52,9 +52,9 @@ Usual attackers are centralized relayers (think Infura service on Ethereum) or m
 
 **We believe that for the elimination of MEV, we need to prevent these two powers or minimize them as much as possible.**
 
-## Introducing Themis protocol
+## Introducing Themis Consensus Extension
 
-Themis protocol prevents both VED and VER, in this particular way:
+Themis Consensus Extension prevents both VED and VER, in this particular way:
 
 ### Solution to VER
 
@@ -70,7 +70,7 @@ In consequence, this creates a 2-block HEAD of the blockchain, and doubles the t
 
 ![screenshot](/assets/posts/themis-ver.jpg)
 
-This solution introduces probabilistic value extraction. In the suggested design, participants will have a higher chance to claim any pure gains by sending multiple transactions, and we argue it is fair since every participant has equal opportunity. In other designs, even with Flashbots auctions, the power is shifted more towards miners, who are the ultimate decision-makers over the block content. At the same time in Themis protocol participants are disincentivized to attempt to extract any gains with multiple transactions, thus eliminating an edge that is making frontrunning activities statistically profitable.
+This solution introduces probabilistic value extraction. In the suggested design, participants will have a higher chance to claim any pure gains by sending multiple transactions, and we argue it is fair since every participant has equal opportunity. In other designs, even with Flashbots auctions, the power is shifted more towards miners, who are the ultimate decision-makers over the block content. At the same time in Themis Consensus Extension participants are disincentivized to attempt to extract any gains with multiple transactions, thus eliminating an edge that is making frontrunning activities statistically profitable.
 
 More technical specifications can be found on this page (Substrate framework specific): [https://github.com/mangata-finance/mangata-node/blob/develop/Mangata.md](https://github.com/mangata-finance/mangata-node/blob/develop/Mangata.md){:target="\_blank"}
 
@@ -151,9 +151,9 @@ Collusion should either introduce a direct punishment for the colluding parties 
 
 ## Conclusion
 
-Themis protocol is presented to be a solution for MEV on application-specific blockchains. It is fully implemented by Mangata DEX blockchain, and is suitable for other applications as well. The current iteration of the protocol is focusing on the removal of powers causing MEV from any network participant, making them more equal. As a result, entire classes of value extraction activities are not possible on the protocol, resulting in fair execution without order fairness and guaranteeing a better price for the users compared to similar applications where value extraction is possible. The current design of the protocol is best suited for PoS consensus where the order of entities building the blocks is known in advance, however, it can be adapted to a consensus protocol without this property with reasonable effort. This solution should be accounted for in the transaction encryption design of both light clients and wallets. At the same time fee estimation algorithms won't be needed. In consequence, privacy is enhanced too, because the transaction intent is hidden until it reaches the execution.
+Themis Consensus Extension is presented to be a solution for MEV on application-specific blockchains. It is fully implemented by Mangata DEX blockchain, and is suitable for other applications as well. The current iteration of the protocol is focusing on the removal of powers causing MEV from any network participant, making them more equal. As a result, entire classes of value extraction activities are not possible on the protocol, resulting in fair execution without order fairness and guaranteeing a better price for the users compared to similar applications where value extraction is possible. The current design of the protocol is best suited for PoS consensus where the order of entities building the blocks is known in advance, however, it can be adapted to a consensus protocol without this property with reasonable effort. This solution should be accounted for in the transaction encryption design of both light clients and wallets. At the same time fee estimation algorithms won't be needed. In consequence, privacy is enhanced too, because the transaction intent is hidden until it reaches the execution.
 
-Since Themis protocol is designed for application-specific blockchains, each implementation should consider and analyze MEV opportunities presented in the application and validate measures introduced by the protocol are sufficient to prevent value extraction.
+Since Themis Consensus Extension is designed for application-specific blockchains, each implementation should consider and analyze MEV opportunities presented in the application and validate measures introduced by the protocol are sufficient to prevent value extraction.
 The current design assumes the malicious actors are acting selfishly and with no cooperation with others. The next versions will solve detecting and punishing collusions of the minority of participants. It is important to note that due to the nature of decentralized consensus byzantine tolerance no protocol can stop and punish malicious collusion if the majority of participants is involved in it.
 
 This solution has been implemented in the Substrate framework using the Rust programming language, within the AURA consensus and will be connected as a parachain in the Polkadot network. You can check the repository here: [https://github.com/mangata-finance/mangata-node](https://github.com/mangata-finance/mangata-node){:target="\_blank"}
