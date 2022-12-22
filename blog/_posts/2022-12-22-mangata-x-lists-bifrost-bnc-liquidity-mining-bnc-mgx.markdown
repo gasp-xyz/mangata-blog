@@ -42,7 +42,7 @@ Follow Mangata Finance to get updated on all our latest developments:
 
 ---
 
-![](/assets/posts/2022-12-22-winter-mangata.png)
+![untitled](/assets/posts/2022-12-22-airwhale-winter.png)
 
 **[Ivan Aivazovsky - Winter Scene](https://commons.wikimedia.org/wiki/File:Ivan_Constantinovich_Aivazovsky_-_Winter_Scene_in_Little_Russia.JPG){:target="\_blank"}**
 
