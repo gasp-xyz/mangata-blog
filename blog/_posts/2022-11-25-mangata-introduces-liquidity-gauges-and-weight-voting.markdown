@@ -14,6 +14,7 @@ Mangata Labs is now introducing Liquidity Gauges and Weight Voting to the Polkad
 
 This article describes Liquidity Gauges, the underlying foundations that make them so successful and lays out the path for how Mangata will introduce them to the Polkadot ecosystem, starting with Mangata X on Kusama.
 
+<iframe width="720" height="405" src="https://www.youtube.com/embed/3CIx16uRAuU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## How Curve pioneered the Liquidity Gauge
 
