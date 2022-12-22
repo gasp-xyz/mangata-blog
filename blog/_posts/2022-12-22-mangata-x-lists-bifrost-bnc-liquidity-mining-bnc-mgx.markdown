@@ -9,7 +9,7 @@ excerpt: "Today, we are excited to announce the listing of four new tokens on Ma
 ---
 
 Mangata X proudly presents a new token listing on the platform. BNC (Bifrost Native Coin) is getting listed on Mangata X on the 22nd of December 2022. After the listing, users will be able to provide liquidity for BNC pairs and start earning rewards for providing liquidity to the BNC-MGX pool.
-- Depositing on the Trading App starts at: 11pm UTC
+- Depositing on the Trading App starts at: 11am UTC
 - Liquidity Mining starts at: 14pm UTC
 
 Users can find guides on how to deposit to the chain as well as liquidity provisions on our [User Guides section on the Mangata Public Workspace](https://mangata-finance.notion.site/User-Guide-f53e744dc1be4fbf809fc8f3f127b2a8){:target="\_blank"}.
