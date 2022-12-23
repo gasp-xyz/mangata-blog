@@ -5,7 +5,7 @@ date: 2022-12-22
 image: "2022-12-22-mangata-x-lists-bnc.jpg"
 author: "Mangata Team"
 author-image: "mangata-team.png"
-excerpt: "Today, we are excited to announce the listing of four new tokens on Mangata X: BNC, vMOVR, vKSM, and vsKSM. The listing will double the amount of tokens available on the Kusama DEX Mangata X. These tokens will be made available through a new XCM channel to Bifrost. Users will be able to deposit and swap tokens in the coming days. New liquidity mining incentives and arbitrage opportunities will open up as a result of these listings."
+excerpt: "Mangata X proudly presents a new token listing on the platform. BNC (Bifrost Native Coin) is getting listed on Mangata X on the 22nd of December 2022. After the listing, users will be able to provide liquidity for BNC pairs and start earning rewards for providing liquidity to the BNC-MGX pool."
 ---
 
 Mangata X proudly presents a new token listing on the platform. BNC (Bifrost Native Coin) is getting listed on Mangata X on the 22nd of December 2022. After the listing, users will be able to provide liquidity for BNC pairs and start earning rewards for providing liquidity to the BNC-MGX pool.
