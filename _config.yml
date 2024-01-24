@@ -21,7 +21,7 @@
 title: Mangata blog
 email: hello@mangata.finance
 description: >- # this means to ignore newlines until "baseurl:"
-  Read our recent posts about DEXes, Polkadot and trading tools.
+  Mangata is an omnichain liquidity network with the vision to make tokens from all ecosystems tradable on a single exchange. Built on Eigenlayer and Starkware technology, it features gas-free swaps, prevents front-running and MEV, increases capital efficiency with the revolutionary proof-of-liquidity consensus, and offers weight voting and permissionless third-party incentives. As an appchain building on Substrate, it is not bound by legacy EVM restrictions and optimizes the whole ecosystem around capital efficiency and fairness.
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://blog.mangata.finance' # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
