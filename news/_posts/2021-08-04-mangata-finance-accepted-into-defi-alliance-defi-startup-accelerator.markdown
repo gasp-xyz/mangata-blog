@@ -16,7 +16,7 @@ Mangata Finance CEO, Peter Kris said:
 
 > “Getting accepted in the DeFi Alliance Accelerator program is a great honor and has provided everyone at Mangata with a sense of recognition. There are many battles ahead of us, but we are confident that with DeFi Alliance’s amazing cohort of mentors we will absolutely dominate all liquidity and trading challenges.”
 
-DeFi Alliance is renowned and recognized as the number one authority on liquidity and trading for DeFi startups and participation in the accelerator program is limited to 20 startups per cohort. Approximately 200 projects regularly apply to join this program, but only the most promising ones are accepted. 
+DeFi Alliance is renowned and recognized as the number one authority on liquidity and trading for DeFi startups and participation in the accelerator program is limited to 20 startups per cohort. Only the most promising ones are accepted. 
 
 Mentorship provided by the DeFi Alliance Network helps kickstart startups by pairing them with a mentor whose area of expertise fits the startup’s main challenge. Mentors such as Jake Chervinsky from Compound, Meltem Demirors from CoinShares, and Qiao Wang from DeFi Alliance work closely with startups to provide guidance and support.
 
