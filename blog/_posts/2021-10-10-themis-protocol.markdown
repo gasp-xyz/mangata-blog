@@ -164,5 +164,5 @@ We went into the technical implementation at the Sub0 conference hosted by Parit
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U8nMwhkzBwo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-*The research is led by Gleb Urvanov.*
-*Thanks to Xinshu Dong, Luke Pearson, Will Wolf, Peter Kris, Marcin Gorny, and the whole team at Substrate Builders for contributing comments and ideas.*
+*The research is led by Gleb Urvanov and Peter Kris.*
+*Thanks to Xinshu Dong, Luke Pearson, Will Wolf, Marcin Gorny, and the whole team at Substrate Builders for contributing comments and ideas.*
